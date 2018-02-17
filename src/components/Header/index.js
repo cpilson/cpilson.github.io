@@ -23,7 +23,7 @@ const Header = () => (
             textDecoration: 'none',
           }}
         >
-          Gatsby
+          Chris Pilson - GitHub Pages
         </Link>
       </h1>
     </div>
