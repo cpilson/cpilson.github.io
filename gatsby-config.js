@@ -6,11 +6,11 @@ module.exports = {
     'gatsby-plugin-react-helmet', {
       resolve: "gatsby-source-github-gql",
       options: {
-        auth: `6eca7e446ae50daabf6cc7ffea3492da5d372435`,
+        auth: `7e88a10f7bca1ebd3bb615265ba840718429dcef`,
         query: `{
           viewer {
             name
-            repositories(last: 100, orderBy: {field: CREATED_AT, direction: ASC}) {
+            repositories(last: 50, orderBy: {field: CREATED_AT, direction: DESC}) {
               edges {
                 node {
 					        createdAt
