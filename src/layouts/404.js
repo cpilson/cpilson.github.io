@@ -5,15 +5,13 @@ import Helmet from 'react-helmet'
 import Header from '../components/Header'
 import Footer from '../components/Footer'
 import './index.css'
-import './repos.css'
 
 const TemplateWrapper = ({ children }) => (
   <div>
     <Helmet
-      title="Chris Pilson - GitHub Pages"
+      title="Oopsies"
       meta={[
-        { name: 'description', content: 'GitHub Pages of Chris Pilson' },
-        { name: 'keywords', content: 'Chris Pilson, Development, ReactJS, Gatsby, GitHub, JavaScript, Redux, Inferno, React Native' },
+        { name: 'Not Found'},
       ]}
     />
     <Header />
