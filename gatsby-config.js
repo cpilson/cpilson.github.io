@@ -1,3 +1,7 @@
+require('dotenv').config({
+  path: `.env.${process.env.NODE_ENV}`
+});
+
 module.exports = {
   siteMetadata: {
     title: 'Chris Pilson - GitHub Dev Site'
@@ -6,7 +10,7 @@ module.exports = {
     'gatsby-plugin-react-helmet', {
       resolve: "gatsby-source-github-gql",
       options: {
-        auth: `7e88a10f7bca1ebd3bb615265ba840718429dcef`,
+        auth: `${process.env.GITHUB_GQL_TOKEN}`,
         query: `{
           viewer {
             name

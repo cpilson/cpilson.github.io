@@ -37,6 +37,7 @@ class GitHubDetailsModal extends Component {
           <p>{this.props.repo.description}</p>
           <p>Created: {this.props.repo.createdAt}</p>
           <p>Updated: {this.props.repo.updatedAt}</p>
+          <p>Pushed: {this.props.repo.pushedAt}</p>
 
           <div className="footer">
             <button onClick={this.props.onClose}>

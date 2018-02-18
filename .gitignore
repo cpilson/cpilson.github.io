@@ -8,6 +8,8 @@ public/
 
 # Environment variables
 .env
+.env.production
+.env.development
 
 # Runtime data
 pids
