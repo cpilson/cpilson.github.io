@@ -11,6 +11,8 @@
     "gatsby": "^1.9.199",
     "gatsby-link": "^1.6.37",
     "gatsby-plugin-react-helmet": "^2.0.5",
+    "gatsby-source-filesystem": "^1.5.24",
+    "gatsby-transformer-remark": "^1.7.33",
     "react-bootstrap": "^0.32.1",
     "react-helmet": "^5.2.0",
     "typography": "^0.16.6",
