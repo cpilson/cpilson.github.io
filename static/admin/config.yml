@@ -1,0 +1,21 @@
+backend:
+  name: github
+  repo: cpilson/cpilson.github.io
+
+media_folder: static/assets
+
+publish_mode: editorial_workflow
+
+collections:
+  - name: blog
+    label: Blog
+    folder: blog
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
+    fields:
+      - { name: path, label: Path }
+      - { name: date, label: Date, widget: date }
+      - { name: title, label: Title, widget: "string", pattern: ['.{3,}', "Must have at least 3 characters"] }
+      - { label: "Layout", name: "layout", widget: "hidden", default: "blog"}
+      - { label: "Featured Image", name: "thumbnail", widget: "image", required: false}
+      - { label: "Body", name: "body", widget: "markdown"}

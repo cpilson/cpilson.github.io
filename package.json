@@ -2,6 +2,9 @@
   "name": "cpilson.github.io",
   "description": "GitHub Dev Site for Chris Pilson",
   "homepage": "https://cpilson.github.io",
+  "repository": {
+    "url": "https://github.com/cpilson/cpilson.github.io"
+  },
   "version": "0.0.1",
   "author": "Chris Pilson <Chris.Pilson@gmail.com>",
   "dependencies": {
@@ -10,8 +13,11 @@
     "dotenv": "^5.0.0",
     "gatsby": "^1.9.199",
     "gatsby-link": "^1.6.37",
+    "gatsby-plugin-netlify-cms": "^1.0.9",
     "gatsby-plugin-react-helmet": "^2.0.5",
+    "gatsby-source-filesystem": "^1.5.24",
     "gatsby-source-github-gql": "^0.1.0",
+    "gatsby-transformer-remark": "^1.7.33",
     "react-bootstrap": "^0.32.1",
     "react-helmet": "^5.2.0",
     "typography": "^0.16.6",

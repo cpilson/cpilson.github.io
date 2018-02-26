@@ -29,12 +29,12 @@ class GitHubList extends Component {
   
     render() {
     const data = this.props.data;
-    data.allRepositories.edges.sort(this.sortByCreatedAt);
+    data.repositoryOwner.repositories.edges.sort(this.sortByCreatedAt);
 
       return (
         <div>
           <ul className="repos">
-            {data.allRepositories.edges.map(n => {
+            {data.repositoryOwner.repositories.edges.map(n => {
                 return (
                     <li key={n.node.id} onClick={() => this.toggleModal(n.node) }><text className="badge">{n.node.name}</text> <span className="description">{n.node.description}</span></li>
                 );
