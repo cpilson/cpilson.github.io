@@ -6,8 +6,8 @@ branches:
   only:
   - develop
 
-install:
-  - yarn install
+before_install:
+  - chmod +x build.sh
 
 script: "./build.sh" #- gatsby build && gh-pages -d public -b master
 
