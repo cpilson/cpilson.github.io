@@ -14,7 +14,7 @@ fi
 # enable error reporting to the console
 set -e
 
-REPO=`git config https://github.com/cpilson/cpilson.github.io.git`
+REPO=`git config remote.origin.url`
 
 # clean
 rm -rf ../cpilson.github.io.${TARGET_BRANCH}
