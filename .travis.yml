@@ -2,17 +2,18 @@ language: node_js
 node_js:
 - 8
 
-before_install:
-  - chmod +x build.sh
+#before_install:
+  #- chmod +x build.sh
 
 #script: "./build.sh" #- gatsby build && gh-pages -d public -b master
-script: "gatsby build && gh-pages -d public -b master"
+#script: "gatsby build && gh-pages -d public -b master"
+script: "gatsby build && yarn gh-pages --repo https://$GITHUB_TOKEN@github.com/cpilson/cpilson.github.io.git -d public -b master"
 
-deploy:
-  provider: pages
-  skip-cleanup: true
-  github-token: $GITHUB_TOKEN  # Set in travis-ci.org dashboard, marked secure
-  keep-history: false # We need git push --force set to create the GH Pages site.
-  target-branch: master
-  on:
-    branch: develop
+#deploy:
+  #provider: pages
+  #skip-cleanup: true
+  #github-token: $GITHUB_TOKEN  # Set in travis-ci.org dashboard, marked secure
+  #keep-history: false # We need git push --force set to create the GH Pages site.
+  #target-branch: master
+  #on:
+    #branch: develop
