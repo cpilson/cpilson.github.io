@@ -6,6 +6,4 @@ deploy:
   skip-cleanup: true
   github-token: $GITHUB_TOKEN  # Set in travis-ci.org dashboard, marked secure
   keep-history: false # We need git push --force set to create the GH Pages site.
-  target-branch: gh-pages
-  on:
-    branch: gh-pages
+  target-branch: master
