@@ -9,12 +9,12 @@ module.exports = {
   plugins: [
     'gatsby-plugin-react-helmet',
     { 
-      resolve: `gatsby-source-filesystem`, 
-      options: { 
-        path: `${__dirname}/blog`, 
-        name: "markdown-pages", 
-      }, 
-    }, 
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `${__dirname}/blog`,
+        name: 'blog-pages',
+      },
+    },
     `gatsby-transformer-remark`,
-  ]
-};
+  ],
+}

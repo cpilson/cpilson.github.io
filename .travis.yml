@@ -2,14 +2,11 @@ language: node_js
 node_js:
 - 8
 
-branches:
-  only:
-  - develop
-
 before_install:
   - chmod +x build.sh
 
-script: "./build.sh" #- gatsby build && gh-pages -d public -b master
+#script: "./build.sh" #- gatsby build && gh-pages -d public -b master
+script: "gatsby build && gh-pages -d public -b master"
 
 deploy:
   provider: pages
@@ -17,3 +14,5 @@ deploy:
   github-token: $GITHUB_TOKEN  # Set in travis-ci.org dashboard, marked secure
   keep-history: false # We need git push --force set to create the GH Pages site.
   target-branch: master
+  on:
+    branch: develop
