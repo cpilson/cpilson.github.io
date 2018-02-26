@@ -2,6 +2,10 @@
   "name": "cpilson.github.io",
   "description": "GitHub Dev Site for Chris Pilson",
   "homepage": "https://cpilson.github.io",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cpilson/cpilson.github.io"
+  },
   "version": "0.0.1",
   "author": "Chris Pilson <Chris.Pilson@gmail.com>",
   "dependencies": {
