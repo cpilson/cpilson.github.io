@@ -5,7 +5,8 @@ require('dotenv').config({
 module.exports = {
   siteMetadata: {
     title: 'Chris Pilson - GitHub Dev Site',
-    keywords: 'Chris Pilson, Development, ReactJS, React, Gatsby, GatsbyJS, GitHub, JavaScript, Redux, Inferno, React Native'
+    keywords: 'Chris Pilson, Development, ReactJS, React, Gatsby, GatsbyJS, GitHub, JavaScript, Redux, Inferno, React Native',
+    name: 'Chris Pilson'
   },
   plugins: [
     'gatsby-plugin-react-helmet',

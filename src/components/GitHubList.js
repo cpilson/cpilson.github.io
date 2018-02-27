@@ -16,8 +16,8 @@ class GitHubList extends Component {
 
     sortByCreatedAt(a, b) {
         // Use toUpperCase() to ignore character casing
-        const dateA = a.node.createdAt;
-        const dateB = b.node.createdAt;
+        const dateA = a.createdAt;
+        const dateB = b.createdAt;
       
         let comparison = 0;
         if (dateA > dateB) {
@@ -30,27 +30,27 @@ class GitHubList extends Component {
   
     render() {
     const data = this.props.data;
-    data.repositoryOwner.repositories.edges.sort(this.sortByCreatedAt);
+    data.user.repositories.nodes.sort(this.sortByCreatedAt);
 
       return (
         <div>
-          {data.repositoryOwner.repositories.edges.map(repositoriesEdge => {
-            let repoPrivacy = repositoriesEdge.node.isPrivate ? <FaLock className="fa pull-right" /> : <FaUnlockAlt className="fa pull-right" />;
-            let privateRepoSpan2 = repositoriesEdge.node.isPrivate ? (<span className="sr-only">Private Repository</span>) : null;
-            // console.log(repositoriesEdge.node.repositoryTopics.edges.sort());
+          {data.user.repositories.nodes.map(node => {
+            let repoPrivacy = node.isPrivate ? <FaLock className="fa pull-right" /> : <FaUnlockAlt className="fa pull-right" />;
+            let privateRepoSpan2 = node.isPrivate ? (<span className="sr-only">Private Repository</span>) : null;
+            // console.log(node.repositoryTopics.edges.sort());
             return (
               <div 
-                className={repositoriesEdge.node.isPrivate ? "panel panel-danger" : "panel panel-primary"} 
-                key={repositoriesEdge.node.id} onClick={() => this.toggleModal(repositoriesEdge.node)}
+                className={node.isPrivate ? "panel panel-danger" : "panel panel-primary"} 
+                key={node.id} onClick={() => this.toggleModal(node)}
               >
-                <div className="panel-heading"><h3 className="panel-title">{repositoriesEdge.node.name}{repoPrivacy}{privateRepoSpan2}</h3></div>
-                <div className="panel-body">{repositoriesEdge.node.description}</div>
+                <div className="panel-heading"><h3 className="panel-title">{node.name}{repoPrivacy}{privateRepoSpan2}</h3></div>
+                <div className="panel-body">{node.description}</div>
                 <div className="panel-footer">
-                  {repositoriesEdge.node.repositoryTopics.edges.map((repositoryTopicsEdge, index) => {
+                  {node.repositoryTopics.nodes.map((repositoryTopicsNode, index) => {
                     let topicPillMargin = ["5px", "5px"];
                     index === 0 ? topicPillMargin = ["0px", "5px"] : null;
-                    index === repositoriesEdge.node.repositoryTopics.totalCount-1 ? topicPillMargin = ["5px", "0px"] : null;
-                    return <span className="badge badge-pill badge-info" key={repositoryTopicsEdge.node.topic.name} style={{"marginLeft": topicPillMargin[0], "marginRight": topicPillMargin[1]}}>{repositoryTopicsEdge.node.topic.name}</span> 
+                    index === node.repositoryTopics.totalCount-1 ? topicPillMargin = ["5px", "0px"] : null;
+                    return <span className="badge badge-pill badge-info" key={repositoryTopicsNode.topic.name} style={{"marginLeft": topicPillMargin[0], "marginRight": topicPillMargin[1]}}>{repositoryTopicsNode.topic.name}</span> 
                   })}
                 </div>
               </div>
