@@ -5,7 +5,7 @@ import * as githubrepos from "../../static/githubrepos.json"
 
 const GitHubRepoPage = ({data}) => (
   <div>
-    <h3 style={{textAlign: 'center'}}>Here are a list of my current GitHub repositories or GitHub repositories on which I am a collaborator</h3>
+    <h3 style={{textAlign: 'center'}}>Here are my current GitHub repositories or GitHub repositories on which I am a collaborator</h3>
     <GitHubList data={githubrepos.data} />
   </div>
 )
