@@ -4,10 +4,17 @@ require('dotenv').config({
 
 module.exports = {
   siteMetadata: {
-    title: 'Chris Pilson - GitHub Dev Site'
+    title: 'Chris Pilson - GitHub Dev Site',
+    keywords: 'Chris Pilson, Development, ReactJS, React, Gatsby, GatsbyJS, GitHub, JavaScript, Redux, Inferno, React Native'
   },
   plugins: [
     'gatsby-plugin-react-helmet',
+    {
+      resolve: `gatsby-plugin-sass`, 
+      options: { 
+        precision: 8, 
+      }, 
+    }, 
     { 
       resolve: `gatsby-source-filesystem`,
       options: {

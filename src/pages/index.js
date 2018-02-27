@@ -9,7 +9,7 @@ const IndexPage = ({data}) => (
 
     <GitHubList data={githubrepos.data} />
     
-    <Link to="/page-2/">Go to page 2</Link>
+    {/* <Link to="/page-2/">Go to page 2</Link> */}
   </div>
 )
 

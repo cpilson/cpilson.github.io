@@ -1,6 +1,8 @@
 import React, { Component } from 'react'
+import {FaLock, FaUnlockAlt} from 'react-icons/lib/fa'
 import Link from 'gatsby-link'
 import GitHubDetailsModal from './GitHubDetailsModal'
+import '../scss/index.scss'
 
 class GitHubList extends Component {
     constructor(props) {
@@ -32,14 +34,28 @@ class GitHubList extends Component {
 
       return (
         <div>
-          <ul className="repos">
-            {data.repositoryOwner.repositories.edges.map(n => {
-                return (
-                    <li key={n.node.id} onClick={() => this.toggleModal(n.node) }><text className="badge">{n.node.name}</text> <span className="description">{n.node.description}</span></li>
-                );
-            })}
-          </ul>
-  
+          {data.repositoryOwner.repositories.edges.map(repositoriesEdge => {
+            let repoPrivacy = repositoriesEdge.node.isPrivate ? <FaLock className="fa pull-right" /> : <FaUnlockAlt className="fa pull-right" />;
+            let privateRepoSpan2 = repositoriesEdge.node.isPrivate ? (<span className="sr-only">Private Repository</span>) : null;
+            // console.log(repositoriesEdge.node.repositoryTopics.edges.sort());
+            return (
+              <div 
+                className={repositoriesEdge.node.isPrivate ? "panel panel-danger" : "panel panel-primary"} 
+                key={repositoriesEdge.node.id} onClick={() => this.toggleModal(repositoriesEdge.node)}
+              >
+                <div className="panel-heading"><h3 className="panel-title">{repositoriesEdge.node.name}{repoPrivacy}{privateRepoSpan2}</h3></div>
+                <div className="panel-body">{repositoriesEdge.node.description}</div>
+                <div className="panel-footer">
+                  {repositoriesEdge.node.repositoryTopics.edges.map((repositoryTopicsEdge, index) => {
+                    let topicPillMargin = ["5px", "5px"];
+                    index === 0 ? topicPillMargin = ["0px", "5px"] : null;
+                    index === repositoriesEdge.node.repositoryTopics.totalCount-1 ? topicPillMargin = ["5px", "0px"] : null;
+                    return <span className="badge badge-pill badge-info" key={repositoryTopicsEdge.node.topic.name} style={{"marginLeft": topicPillMargin[0], "marginRight": topicPillMargin[1]}}>{repositoryTopicsEdge.node.topic.name}</span> 
+                  })}
+                </div>
+              </div>
+            );
+          })}
           <GitHubDetailsModal show={this.state.isOpen} onClose={this.toggleModal} repo={this.state.selectedNode} />
         </div>
       );
