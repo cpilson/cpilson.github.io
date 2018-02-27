@@ -13,8 +13,7 @@ Gatsby was recommended to me by a mentor. I had seen Jekyll in use before and kn
 ## How to use/compile this suite
 
 * If you're a user, simply head over to the [compiled page](https://cpilson.github.io) and gape in wonderment!
-* If you're looking to develop a site of your own, or maybe if you're future-me looking for a hint, rename the `env_sample` file to `.env.development` to [set up development environment variables](https://github.com/gatsbyjs/gatsby/blob/master/docs/docs/environment-variables.md).
-  * Thus far, there is only one variable, `GITHUB_GQL_TOKEN`, that works with the `gatsby-source-github-gql` plugin to run a GraphQL query against the GitHub API.
-  * This permits `index.js` to pass information about a GitHub repo down to the `GitHubList.js` and `GitHubDetailsModal` components.
-  * Keep the source files in the _develop_ branch; the site gets compiled and pushed to _master_ via the `gh-pages` package and a `deploy` script (invoked via `yarn run deploy`), found in `package.json`.
-* When you're happy with the site (`yarn run develop` to test), add `.env.development` and `.env.production` to your `.gitignore` file, populate both `.env` files with your `GITHUB_GQL_TOKEN`, push to your `develop` branch, and then push to `master` and publish at the same time through `yarn run deploy`.
+* Keep the source files in the _develop_ branch; the site gets compiled and pushed to _master_ via the `gh-pages` package and a `deploy` script (invoked via `yarn run deploy`), found in `package.json`.
+  * Alternately (and as an improvement), this site gets deployed to `master` by `Travis-CI` whenever a push to `develop` happens. This push must pass `Travis-CI` tests.
+* When you're happy with the site (`yarn run develop` to test), build it to a static folder (`public`) via `yarn run build`, and make sure it does what you want via `gatsby serve`. This will serve the static build from `localhost:9000`. 
+* When complete, push this code to your `develop` branch. This should trigger the `Travis-CI` build process and a new commit (force-push) to `master` will take place within a few minutes.
