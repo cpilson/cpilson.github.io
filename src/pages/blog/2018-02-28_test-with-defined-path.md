@@ -1,5 +1,5 @@
 ---
-path: /blog/
+path: /blog/2018-02-28_test-with-defined-path
 layout: blog
 title: Test with defined path
 date: 2018-02-28T13:40:25.133Z
