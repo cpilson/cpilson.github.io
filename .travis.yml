@@ -2,12 +2,8 @@ language: node_js
 node_js:
 - 8
 
-before_install:
-  # - mkdir blog
-  #- chmod +x build.sh
+# before_install:
 
-#script: "./build.sh" #- gatsby build && gh-pages -d public -b master
-#script: "gatsby build && gh-pages -d public -b master"
 script: "gatsby build && yarn gh-pages --repo https://$GITHUB_TOKEN@github.com/cpilson/cpilson.github.io.git -d public -b master"
 
 #deploy:
