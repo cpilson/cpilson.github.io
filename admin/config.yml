@@ -1,7 +1,7 @@
 backend:
-  #name: github
-  #repo: cpilson/cpilson.github.io
-  name: git-gateway
+  name: github
+  repo: cpilson/cpilson.github.io
+  # name: git-gateway
   branch: master # Branch to update (optional; defaults to master)
 
 media_folder: static/assets
@@ -18,6 +18,6 @@ collections:
       - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
       - {label: "Title", name: "title", widget: "string", pattern: ['.{3,}', "Must have at least 3 characters"]}
       - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Featured Image", name: "thumbnail", widget: "image"}
-      - {label: "Rating (scale of 1-5)", name: "rating", widget: "number"}
+      - {label: "Featured Image", name: "thumbnail", widget: "image", required: false}
+      - {label: "Rating (scale of 1-5)", name: "rating", widget: "number", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
