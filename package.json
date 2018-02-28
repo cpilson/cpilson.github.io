@@ -15,11 +15,15 @@
     "dotenv": "^5.0.0",
     "gatsby": "^1.9.199",
     "gatsby-link": "^1.6.37",
+    "gatsby-plugin-catch-links": "^1.0.17",
+    "gatsby-plugin-google-analytics": "^1.0.19",
     "gatsby-plugin-netlify-cms": "^1.0.9",
     "gatsby-plugin-react-helmet": "^2.0.5",
     "gatsby-plugin-sass": "^1.0.17",
+    "gatsby-remark-prismjs": "^1.2.15",
     "gatsby-source-filesystem": "^1.5.24",
     "gatsby-transformer-remark": "^1.7.33",
+    "prop-types": "^15.6.1",
     "react-bootstrap": "^0.32.1",
     "react-helmet": "^5.2.0",
     "react-icons": "^2.2.7",
@@ -27,6 +31,7 @@
     "typography-theme-bootstrap": "^0.16.7"
   },
   "devDependencies": {
+    "eslint-config-airbnb-standard": "^1.6.6",
     "gh-pages": "^1.1.0",
     "prettier": "^1.10.2"
   },

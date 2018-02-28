@@ -3,7 +3,7 @@ node_js:
 - 8
 
 before_install:
-  - mkdir blog
+  # - mkdir blog
   #- chmod +x build.sh
 
 #script: "./build.sh" #- gatsby build && gh-pages -d public -b master
