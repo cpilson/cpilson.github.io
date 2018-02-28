@@ -13,8 +13,8 @@
       "path---githubrepos-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---blog": [
-      "path---blog-d8c011c31df9b59ca96d.js",
-      "path---blog-d8c011c31df9b59ca96d.js.map"
+      "path---blog-b684faae146a48daca1b.js",
+      "path---blog-b684faae146a48daca1b.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
@@ -52,6 +52,10 @@
       "commons-f0c83fdfb8a7a33d4f7d.js",
       "commons-f0c83fdfb8a7a33d4f7d.js.map"
     ],
+    "path---blog-2018-02-28-test-with-defined-path": [
+      "path---blog-2018-02-28-test-with-defined-path-8223439b98aa14fb843c.js",
+      "path---blog-2018-02-28-test-with-defined-path-8223439b98aa14fb843c.js.map"
+    ],
     "path---404-html": [
       "path---404-html-a0e39f21c11f6a62c5ab.js",
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
@@ -69,8 +73,8 @@
       "component---src-pages-footer-index-js-ce1df0cfd0a0b543f292.js.map"
     ],
     "app": [
-      "app-5c66b3242ac96bfaafc4.js",
-      "app-5c66b3242ac96bfaafc4.js.map"
+      "app-b151daa1a1e6d3b83a5d.js",
+      "app-b151daa1a1e6d3b83a5d.js.map"
     ],
     "path---blog-2018-02-28-deploy-test": [
       "path---blog-2018-02-28-deploy-test-64ab4815b0e3f3a5af10.js",
