@@ -26,6 +26,7 @@ module.exports = {
         precision: 8
       }
     },
+    `gatsby-plugin-typescript`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
