@@ -33,7 +33,7 @@ class GitHubDetailsModal extends Component {
       <div className="backdrop" style={backdropStyle}>
         <div className="modal" style={modalStyle}>
           {/* {this.props.children} */}
-          <h2><a href={this.props.repo.url} target="_blank">{this.props.repo.name}</a></h2>
+          <h2><a href={this.props.repo.url} target="_blank" rel="noopener noreferrer">{this.props.repo.name}</a></h2>
           <p>{this.props.repo.description}</p>
           <p>Created: {this.props.repo.createdAt}</p>
           <p>Updated: {this.props.repo.updatedAt}</p>

@@ -4,11 +4,13 @@ import React from 'react';
 import Helmet from 'react-helmet';
 
 // import '../css/index.css'; // add some style if you want!
+const excerptLength = 50;
 
 export default function Index ({ data }) {
   const { edges: posts } = data.allMarkdownRemark;
   return (
     <div className="blog-posts">
+      <Helmet title="Chris Pilson - Tech Blog" />
       {posts
         .filter(post => post.node.frontmatter.title.length > 0)
         .map(({ node: post }) => (
@@ -17,6 +19,7 @@ export default function Index ({ data }) {
               <Link to={post.frontmatter.path}>{post.frontmatter.title}</Link>
             </h1>
             <h2>{post.frontmatter.date}</h2>
+            <p>{post.timeToRead} {post.timeToRead !== 1 ? 'minutes' : 'minute'} to read</p>
             <p>{post.excerpt}</p>
           </div>
         ))}
@@ -26,18 +29,41 @@ export default function Index ({ data }) {
 
 export const pageQuery = graphql`
   query IndexQuery {
-    allMarkdownRemark(sort: { order: DESC, fields: [frontmatter___date] }) {
+    allMarkdownRemark(sort: {fields: [frontmatter___date] order: DESC}) {
       edges {
         node {
-          excerpt(pruneLength: 250)
+          id
+          excerpt(pruneLength: 50)
+          frontmatter {
+            date(formatString: "DD MMMM, YYYY")
+            path
+            title
+          }
+          timeToRead
+        }
+        previous {
           id
           frontmatter {
-            title
-            date(formatString: "MMMM DD, YYYY")
+            date(formatString: "DD MMMM, YYYY")
             path
+            title
           }
+          timeToRead
+        }
+        next {
+          id
+          frontmatter {
+            date(formatString: "DD MMMM, YYYY")
+            path
+            title
+          }
+          timeToRead
         }
       }
+      pageInfo {
+        hasNextPage
+      }
+      totalCount
     }
   }
 `;
