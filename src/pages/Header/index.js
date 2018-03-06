@@ -52,7 +52,7 @@ const HeaderPage = ({ data }) => (
         float: `right`
       }}
       >
-        <ListLink to="/about/">About</ListLink>
+        <ListLink to="/githubrepos/">GitHub Repos</ListLink>
         <ListLink to="/blog/">Tech Blog</ListLink>
       </ul>
     </header>
