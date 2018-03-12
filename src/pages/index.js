@@ -8,7 +8,7 @@ const emailLink = `mailto:${githubrepos.data.user.email}${emailSubject}`;
 
 const IndexPage = ({ data }) => (
   <div>
-    <h3>This site provides a web-friendly to my GitHub data</h3>
+    <h3>This site provides a web-friendly window into my GitHub data</h3>
     <blockquote dangerouslySetInnerHTML={{ __html: (githubrepos.data.user.bioHTML) }} />
     <p>I am a software developer and am currently involved with at least {githubrepos.data.user.repositories.totalCount} <Link to="/githubrepos">GitHub repositories.</Link></p>
     <p>I strongly believe in connecting people through software and collaboration. Currently, I am {githubrepos.data.user.isHireable ? <a href={emailLink}><strong>available</strong></a> : <strong>unavailable</strong>} for hiring.</p>
