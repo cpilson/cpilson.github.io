@@ -33,7 +33,7 @@ class GitHubList extends Component {
 
   render () {
     const { data } = this.props;
-    data.user.repositories.nodes.sort(this.sortByCreatedAt);
+    // data.user.repositories.nodes.sort(this.sortByCreatedAt);
 
     return (
       <div>
@@ -45,10 +45,10 @@ class GitHubList extends Component {
             <div
               className={node.isPrivate ? 'panel panel-danger' : 'panel panel-primary'}
               key={node.id}
-              onClick={() => this.toggleModal(node)}
+              onClick={node.isPrivate ? null : () => this.toggleModal(node)}
             >
-              <div className="panel-heading"><h3 className="panel-title">{node.name}{repoPrivacy}{privateRepoSpan2}</h3></div>
-              <div className="panel-body">{node.description}</div>
+              <div className="panel-heading"><h3 className="panel-title">{node.isPrivate ? 'PRIVATE REPO' : node.name}{repoPrivacy}{privateRepoSpan2}</h3></div>
+              <div className="panel-body">{node.isPrivate ? 'DESCRIPTION NOT AVAILABLE; PRIVATE REPO' : node.description}</div>
               <div className="panel-footer">
                 {node.repositoryTopics.nodes.map((repositoryTopicsNode, index) => {
                   let topicPillMargin = ['5px', '5px'];
