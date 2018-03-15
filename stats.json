@@ -13,8 +13,8 @@
       "path---githubrepos-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---blog": [
-      "path---blog-bf1fa53abd4441467356.js",
-      "path---blog-bf1fa53abd4441467356.js.map"
+      "path---blog-382601011b567a078404.js",
+      "path---blog-382601011b567a078404.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
@@ -77,8 +77,8 @@
       "component---src-pages-footer-index-js-f60b3eb1ddd69a089264.js.map"
     ],
     "app": [
-      "app-a4ca432273477f7bd958.js",
-      "app-a4ca432273477f7bd958.js.map"
+      "app-7168d35741b3758ec8a7.js",
+      "app-7168d35741b3758ec8a7.js.map"
     ],
     "path---blog-2018-02-28-deploy-test": [
       "path---blog-2018-02-28-deploy-test-64ab4815b0e3f3a5af10.js",
@@ -99,6 +99,10 @@
     "component---src-pages-about-js": [
       "component---src-pages-about-js-594e202e927e4390e45e.js",
       "component---src-pages-about-js-594e202e927e4390e45e.js.map"
+    ],
+    "path---blog-2018-03-14-the-art-of-resume-tool-writing": [
+      "path---blog-2018-03-14-the-art-of-resume-tool-writing-a55659a1eb034c447519.js",
+      "path---blog-2018-03-14-the-art-of-resume-tool-writing-a55659a1eb034c447519.js.map"
     ],
     "path---header": [
       "path---header-84bd160ce8643572938a.js",
