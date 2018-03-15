@@ -4,6 +4,8 @@ layout: blog
 title: The Art of Resume Tool Writing
 date: '2018-03-14T23:50:16-07:00'
 ---
+> How does a developer address decision fatigue? Learn another tool! How does a developer pivot to demonstrate qualifications around a central cluster of skills? Write software for this, of course!
+
 I've been looking into GraphQL lately, and at serving GraphQL endpoints connected to a MongoDB data-store.
 
 Why would I do such a thing? It actually ties into my earlier blog post about [decision fatigue](/blog/2018-03-12_javascript-and-decision-fatigue). I also have "job-fatigue," in that I have deep interest across many domains and within many disciplines and sub-disciplines. While I have studied software development for years and thrown products together in many languages, I am now **looking to continue my focus on the JavaScript development stack**, as I find it rewarding via rapid-prototyping and very quick development-feedback-testing-deployment loop times.
