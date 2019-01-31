@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import React from 'react';
 import Helmet from 'react-helmet';
 
-// import '../css/index.css'; // add some style if you want!
+// import '../css/index.css'; // styles aren't needed here.
 const excerptLength = 50;
 
 export default function Index ({ data }) {
