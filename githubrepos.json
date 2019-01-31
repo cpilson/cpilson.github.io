@@ -2,23 +2,23 @@
   "data": {
     "user": {
       "avatarUrl": "https://avatars2.githubusercontent.com/u/7672515?s=128&v=4",
-      "bioHTML": "<div>I build things. \n\nThese days, I tend to use JavaScript, Node, React, and React Native.</div>",
+      "bioHTML": "<div>I am passionate about building technologies and products that empower and connect people.\n\nI tend toward JS--NodeJS, Koa2, Angular, React, and React Native</div>",
       "company": "",
       "createdAt": "2014-05-22T18:52:16Z",
-      "email": "Chris.Pilson@gmail.com",
+      "email": "Chris.Pilson+Git@gmail.com",
       "followers": {
         "nodes": [
           {
-            "avatarUrl": "https://avatars2.githubusercontent.com/u/25806848?s=32&v=4",
+            "avatarUrl": "https://avatars1.githubusercontent.com/u/33035519?s=32&v=4",
             "isHireable": true,
-            "login": "btw47",
-            "name": "Bradley Wong"
+            "login": "drybonesification",
+            "name": "8_N3Z"
           },
           {
-            "avatarUrl": "https://avatars0.githubusercontent.com/u/29802066?s=32&v=4",
-            "isHireable": false,
-            "login": "McKibbN",
-            "name": "Avery Jordan Angel"
+            "avatarUrl": "https://avatars1.githubusercontent.com/u/28426718?s=32&v=4",
+            "isHireable": true,
+            "login": "ormus395",
+            "name": "Jarec Turner"
           },
           {
             "avatarUrl": "https://avatars2.githubusercontent.com/u/29987441?s=32&v=4",
@@ -27,16 +27,10 @@
             "name": "Bonham"
           },
           {
-            "avatarUrl": "https://avatars0.githubusercontent.com/u/29988344?s=32&v=4",
-            "isHireable": true,
-            "login": "Durban-Designer",
-            "name": "Royce Birnbaum"
-          },
-          {
-            "avatarUrl": "https://avatars2.githubusercontent.com/u/30011010?s=32&v=4",
+            "avatarUrl": "https://avatars0.githubusercontent.com/u/29802066?s=32&v=4",
             "isHireable": false,
-            "login": "Spiralis-Solutions",
-            "name": "ScreenArtKSJ"
+            "login": "McKibbN",
+            "name": "Avery Jordan Angel"
           },
           {
             "avatarUrl": "https://avatars3.githubusercontent.com/u/31861539?s=32&v=4",
@@ -45,26 +39,32 @@
             "name": "Jd Richard H Scarberry"
           },
           {
-            "avatarUrl": "https://avatars2.githubusercontent.com/u/31861662?s=32&v=4",
-            "isHireable": false,
-            "login": "kkaye85",
-            "name": "Krysta Jones"
+            "avatarUrl": "https://avatars2.githubusercontent.com/u/25806848?s=32&v=4",
+            "isHireable": true,
+            "login": "btw47",
+            "name": "Bradley Wong"
           },
           {
             "avatarUrl": "https://avatars0.githubusercontent.com/u/33035516?s=32&v=4",
             "isHireable": false,
             "login": "dldugan14",
             "name": "Dillon Dugan"
+          },
+          {
+            "avatarUrl": "https://avatars2.githubusercontent.com/u/31861662?s=32&v=4",
+            "isHireable": false,
+            "login": "kkaye85",
+            "name": "Krysta Jones"
           }
         ]
       },
       "following": {
         "nodes": [
           {
-            "avatarUrl": "https://avatars3.githubusercontent.com/u/76360?s=32&v=4",
-            "isHireable": false,
-            "login": "jtomchak",
-            "name": "Jesse Tomchak"
+            "avatarUrl": "https://avatars1.githubusercontent.com/u/28426718?s=32&v=4",
+            "isHireable": true,
+            "login": "ormus395",
+            "name": "Jarec Turner"
           },
           {
             "avatarUrl": "https://avatars2.githubusercontent.com/u/25806848?s=32&v=4",
@@ -73,16 +73,22 @@
             "name": "Bradley Wong"
           },
           {
+            "avatarUrl": "https://avatars0.githubusercontent.com/u/33035516?s=32&v=4",
+            "isHireable": false,
+            "login": "dldugan14",
+            "name": "Dillon Dugan"
+          },
+          {
             "avatarUrl": "https://avatars2.githubusercontent.com/u/31861662?s=32&v=4",
             "isHireable": false,
             "login": "kkaye85",
             "name": "Krysta Jones"
           },
           {
-            "avatarUrl": "https://avatars0.githubusercontent.com/u/33035516?s=32&v=4",
+            "avatarUrl": "https://avatars3.githubusercontent.com/u/76360?s=32&v=4",
             "isHireable": false,
-            "login": "dldugan14",
-            "name": "Dillon Dugan"
+            "login": "jtomchak",
+            "name": "Jesse Tomchak"
           }
         ]
       },
@@ -103,17 +109,819 @@
             "key": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQClzPQPPpChm8nozU/nTBhCv4+Tq9U5NJPArbfxTM8X7LgELUc+VbEa74KKS1e023rgHp7+Up9HteqwrFTxKUoKb4ygG3BKiIb0so38WkKGRKT+EQLgEX/KzsEDOUtnWP+jallfywIFIVeztnX/gBlYP+ydNum4NLzSzT2iMjlfqb5yTuexZsRWj1XIzwn4TKooFtX6Rla+RNCg9q+wGa2HgMykXQDz2HSup0qXF7ta5Dv6hMjGDdwpEFUWWJWYEfVRbZn8CePFUXDB7TRijUVAFw31CTwHluca+x9yPAUpAtEg25kWYnGffd+uxbZsxGMo599A2hhcR/ZurV10G1ih"
           },
           {
-            "id": "MDk6UHVibGljS2V5MjY1NTE0MDg=",
-            "key": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCE7SK8DRvSc4JHyhuDgI37xOKYshbfSRMqT9p3OyCS2jTTcwCBUwYSvfVx5+msvtv+2Lcm4YmxEDmqWrMUrnkc5FlkpjpV/K556b93sMOh5uFBsbPAgZadzlVzvuN43ZyPWR/84y2EmnVsS2hIUhPgeiFgbKiyW/bKjy59rWNxAXyGXlFGQpzValcVHBgCKK0aCMpwj3fw8Uxx4OVowACW3XSSYQtNkAX9pQTUzG4Ycfou8gXDer2OZpep144bEAMTFy1th80rr3rjJmpnnyolAKX10w90tgrxjY130KYv7vfnBmcSfTyhiZ2Rs7NkfKGeL+pH4UPfhOfsovALmLXZ"
-          },
-          {
-            "id": "MDk6UHVibGljS2V5MjY1ODI1Mzg=",
-            "key": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC394FMeJfBMwsCIhQJYxGUCeoEj4MnOpuuZsBpArdiAiKoemJ2UfxWdX4H+5J2cGT29q9scIJalM8IyAArXsHTjzCgR7DgY+PFM9F3cFrjmt35l4QG8zLnPtMP27+C+Xp5McS8DdVPz8gvdnLq2MSdlzAcbqVlsa2iDSRqTR0cMPF5OJldLGAE0jZJLtRvFVEyuvdd5E7srx1RTfEyPNuaiFVTf2FT4r2NjyRjm/JEuZZ/bqJ0Qts0CI9WZBJGqWdadqFl8eUC/lSJSQsKgSR3WsctqkGcHFl9O7uE1kgWahlCJ18jurTQm0knYDS9xw+9l6Lpomicatv91hsrIlfb"
+            "id": "MDk6UHVibGljS2V5MzI3OTcxNjg=",
+            "key": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCQ2nS/cCeJ99tCly1dYRNkINOcFIcf9qYWOuC4yXcDRuw/szAX3BLiVG6+QZcmOatdIWSAL/t1W6/xb9+U/gXxBvv4JEEPSIAT675/heNOgLJcY+Gp94oFGwcPxOdhJOGXsnUYKv35QM1YRYbSLTGDK+ScUPfjBWRjvki7I4FiHtAR/ycpEkX88vRPLxjWgiSo0lsWGgIFCcxeQ2xV5u/IHmFhYGoq9qIHswNgcdcyGTDS6nK8E/XmYhdPhxHUaCN5BAsFQF3F3LHlymi71cRdizoPHvX3kBCbTnfoBxe11KG86UqdzTs1gOfIgOxylPO4ztHOLDLNw6ObSNWrDZaT"
           }
         ]
       },
       "pullRequests": {
         "nodes": [
+          {
+            "author": {
+              "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
+              "login": "cpilson",
+              "url": "https://github.com/cpilson"
+            },
+            "bodyHTML": "<p>This solves a pretty typical problem when you're trying to be intelligent about displaying something like a datatable. Rather than one-offing this every time, you can pass your single entity name (e.g \"Picture\") and a record count (e.g. \"filteredPictures\") and get correctly-pluralized output.</p>",
+            "merged": true,
+            "mergedAt": "2019-01-28T13:40:12Z",
+            "publishedAt": "2018-10-29T05:24:29Z",
+            "reactions": {
+              "nodes": [],
+              "totalCount": 0
+            },
+            "repository": {
+              "name": "ngx-pipes",
+              "owner": {
+                "avatarUrl": "https://avatars3.githubusercontent.com/u/7808742?s=32&v=4",
+                "login": "danrevah",
+                "url": "https://github.com/danrevah"
+              },
+              "url": "https://github.com/danrevah/ngx-pipes"
+            },
+            "reviews": {
+              "nodes": [
+                {
+                  "author": {
+                    "avatarUrl": "https://avatars3.githubusercontent.com/u/7808742?s=32&v=4",
+                    "login": "danrevah",
+                    "url": "https://github.com/danrevah"
+                  },
+                  "body": "",
+                  "createdAt": "2019-01-28T13:39:52Z",
+                  "publishedAt": "2019-01-28T13:39:52Z",
+                  "repository": {
+                    "name": "ngx-pipes",
+                    "url": "https://github.com/danrevah/ngx-pipes"
+                  },
+                  "state": "APPROVED",
+                  "url": "https://github.com/danrevah/ngx-pipes/pull/131#pullrequestreview-197039609"
+                }
+              ]
+            }
+          },
+          {
+            "author": {
+              "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
+              "login": "cpilson",
+              "url": "https://github.com/cpilson"
+            },
+            "bodyHTML": "",
+            "merged": true,
+            "mergedAt": "2019-01-28T13:30:49Z",
+            "publishedAt": "2018-10-29T05:52:15Z",
+            "reactions": {
+              "nodes": [],
+              "totalCount": 0
+            },
+            "repository": {
+              "name": "ngx-pipes",
+              "owner": {
+                "avatarUrl": "https://avatars3.githubusercontent.com/u/7808742?s=32&v=4",
+                "login": "danrevah",
+                "url": "https://github.com/danrevah"
+              },
+              "url": "https://github.com/danrevah/ngx-pipes"
+            },
+            "reviews": {
+              "nodes": [
+                {
+                  "author": {
+                    "avatarUrl": "https://avatars0.githubusercontent.com/u/33287332?s=32&v=4",
+                    "login": "christopheelkhoury",
+                    "url": "https://github.com/christopheelkhoury"
+                  },
+                  "body": "I would recommend adding a case for unusual sentences\r\ne.g.:\r\n> The doctor proposed an '[...] apple a day could keep the doctor away'\r\n\r\nWhereby the 'an' would be needed, however, outside the scope of the doctor's quote.",
+                  "createdAt": "2018-11-08T10:51:14Z",
+                  "publishedAt": "2018-11-08T10:51:14Z",
+                  "repository": {
+                    "name": "ngx-pipes",
+                    "url": "https://github.com/danrevah/ngx-pipes"
+                  },
+                  "state": "COMMENTED",
+                  "url": "https://github.com/danrevah/ngx-pipes/pull/133#pullrequestreview-172899844"
+                },
+                {
+                  "author": {
+                    "avatarUrl": "https://avatars3.githubusercontent.com/u/7808742?s=32&v=4",
+                    "login": "danrevah",
+                    "url": "https://github.com/danrevah"
+                  },
+                  "body": "",
+                  "createdAt": "2019-01-28T13:30:33Z",
+                  "publishedAt": "2019-01-28T13:30:33Z",
+                  "repository": {
+                    "name": "ngx-pipes",
+                    "url": "https://github.com/danrevah/ngx-pipes"
+                  },
+                  "state": "APPROVED",
+                  "url": "https://github.com/danrevah/ngx-pipes/pull/133#pullrequestreview-197035557"
+                }
+              ]
+            }
+          },
+          {
+            "author": {
+              "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
+              "login": "cpilson",
+              "url": "https://github.com/cpilson"
+            },
+            "bodyHTML": "<p>Requires new <code>/src/utils/utils.ts</code> <code>isVowel()</code> function.</p>",
+            "merged": false,
+            "mergedAt": null,
+            "publishedAt": "2018-10-29T01:13:53Z",
+            "reactions": {
+              "nodes": [],
+              "totalCount": 0
+            },
+            "repository": {
+              "name": "angular-pipes",
+              "owner": {
+                "avatarUrl": "https://avatars2.githubusercontent.com/u/6775689?s=32&v=4",
+                "login": "fknop",
+                "url": "https://github.com/fknop"
+              },
+              "url": "https://github.com/fknop/angular-pipes"
+            },
+            "reviews": {
+              "nodes": []
+            }
+          },
+          {
+            "author": {
+              "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
+              "login": "cpilson",
+              "url": "https://github.com/cpilson"
+            },
+            "bodyHTML": "",
+            "merged": false,
+            "mergedAt": null,
+            "publishedAt": "2018-10-29T03:22:23Z",
+            "reactions": {
+              "nodes": [],
+              "totalCount": 0
+            },
+            "repository": {
+              "name": "angular-pipes",
+              "owner": {
+                "avatarUrl": "https://avatars2.githubusercontent.com/u/6775689?s=32&v=4",
+                "login": "fknop",
+                "url": "https://github.com/fknop"
+              },
+              "url": "https://github.com/fknop/angular-pipes"
+            },
+            "reviews": {
+              "nodes": []
+            }
+          },
+          {
+            "author": {
+              "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
+              "login": "cpilson",
+              "url": "https://github.com/cpilson"
+            },
+            "bodyHTML": "",
+            "merged": false,
+            "mergedAt": null,
+            "publishedAt": "2018-10-29T04:32:22Z",
+            "reactions": {
+              "nodes": [],
+              "totalCount": 0
+            },
+            "repository": {
+              "name": "angular-pipes",
+              "owner": {
+                "avatarUrl": "https://avatars2.githubusercontent.com/u/6775689?s=32&v=4",
+                "login": "fknop",
+                "url": "https://github.com/fknop"
+              },
+              "url": "https://github.com/fknop/angular-pipes"
+            },
+            "reviews": {
+              "nodes": []
+            }
+          },
+          {
+            "author": {
+              "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
+              "login": "cpilson",
+              "url": "https://github.com/cpilson"
+            },
+            "bodyHTML": "",
+            "merged": true,
+            "mergedAt": "2019-01-20T11:29:02Z",
+            "publishedAt": "2019-01-20T11:28:43Z",
+            "reactions": {
+              "nodes": [],
+              "totalCount": 0
+            },
+            "repository": {
+              "name": "xplane-overlay",
+              "owner": {
+                "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
+                "login": "cpilson",
+                "url": "https://github.com/cpilson"
+              },
+              "url": "https://github.com/cpilson/xplane-overlay"
+            },
+            "reviews": {
+              "nodes": []
+            }
+          },
+          {
+            "author": {
+              "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
+              "login": "cpilson",
+              "url": "https://github.com/cpilson"
+            },
+            "bodyHTML": "",
+            "merged": true,
+            "mergedAt": "2019-01-20T11:17:57Z",
+            "publishedAt": "2019-01-20T11:12:34Z",
+            "reactions": {
+              "nodes": [],
+              "totalCount": 0
+            },
+            "repository": {
+              "name": "xplane-overlay",
+              "owner": {
+                "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
+                "login": "cpilson",
+                "url": "https://github.com/cpilson"
+              },
+              "url": "https://github.com/cpilson/xplane-overlay"
+            },
+            "reviews": {
+              "nodes": []
+            }
+          },
+          {
+            "author": {
+              "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
+              "login": "cpilson",
+              "url": "https://github.com/cpilson"
+            },
+            "bodyHTML": "<ul>\n<li>Added ExtPlane</li>\n<li>Added requirement for ExtPlane plugin</li>\n<li>Updated README</li>\n</ul>\n<ul>\n<li>Removed UDP socket comms</li>\n</ul>",
+            "merged": true,
+            "mergedAt": "2019-01-20T11:11:49Z",
+            "publishedAt": "2019-01-20T11:11:29Z",
+            "reactions": {
+              "nodes": [],
+              "totalCount": 0
+            },
+            "repository": {
+              "name": "xplane-overlay",
+              "owner": {
+                "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
+                "login": "cpilson",
+                "url": "https://github.com/cpilson"
+              },
+              "url": "https://github.com/cpilson/xplane-overlay"
+            },
+            "reviews": {
+              "nodes": []
+            }
+          },
+          {
+            "author": {
+              "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
+              "login": "cpilson",
+              "url": "https://github.com/cpilson"
+            },
+            "bodyHTML": "<p>Working POC using UDP packets from X-Plane on port 49999.</p>",
+            "merged": true,
+            "mergedAt": "2019-01-19T08:38:34Z",
+            "publishedAt": "2019-01-19T08:37:47Z",
+            "reactions": {
+              "nodes": [],
+              "totalCount": 0
+            },
+            "repository": {
+              "name": "xplane-overlay",
+              "owner": {
+                "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
+                "login": "cpilson",
+                "url": "https://github.com/cpilson"
+              },
+              "url": "https://github.com/cpilson/xplane-overlay"
+            },
+            "reviews": {
+              "nodes": []
+            }
+          },
+          {
+            "author": {
+              "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
+              "login": "cpilson",
+              "url": "https://github.com/cpilson"
+            },
+            "bodyHTML": "<p>Added .eslintrc rules, linted/prettier'ed everything, made some sane rules, etc.</p>",
+            "merged": false,
+            "mergedAt": null,
+            "publishedAt": "2018-05-31T06:07:53Z",
+            "reactions": {
+              "nodes": [],
+              "totalCount": 0
+            },
+            "repository": {
+              "name": "while-one-code",
+              "owner": {
+                "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
+                "login": "cpilson",
+                "url": "https://github.com/cpilson"
+              },
+              "url": "https://github.com/cpilson/while-one-code"
+            },
+            "reviews": {
+              "nodes": []
+            }
+          },
+          {
+            "author": {
+              "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
+              "login": "cpilson",
+              "url": "https://github.com/cpilson"
+            },
+            "bodyHTML": "",
+            "merged": true,
+            "mergedAt": "2018-04-05T19:34:17Z",
+            "publishedAt": "2018-04-05T19:34:11Z",
+            "reactions": {
+              "nodes": [],
+              "totalCount": 0
+            },
+            "repository": {
+              "name": "kick-off-koa",
+              "owner": {
+                "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
+                "login": "cpilson",
+                "url": "https://github.com/cpilson"
+              },
+              "url": "https://github.com/cpilson/kick-off-koa"
+            },
+            "reviews": {
+              "nodes": []
+            }
+          },
+          {
+            "author": {
+              "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
+              "login": "cpilson",
+              "url": "https://github.com/cpilson"
+            },
+            "bodyHTML": "<p>As before, I wrote named middleware to take care of the request.</p>\n<p>See <code>app.js/sessionToLogViewCount()</code></p>",
+            "merged": true,
+            "mergedAt": "2018-04-05T19:10:53Z",
+            "publishedAt": "2018-04-05T19:10:43Z",
+            "reactions": {
+              "nodes": [],
+              "totalCount": 0
+            },
+            "repository": {
+              "name": "kick-off-koa",
+              "owner": {
+                "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
+                "login": "cpilson",
+                "url": "https://github.com/cpilson"
+              },
+              "url": "https://github.com/cpilson/kick-off-koa"
+            },
+            "reviews": {
+              "nodes": []
+            }
+          },
+          {
+            "author": {
+              "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
+              "login": "cpilson",
+              "url": "https://github.com/cpilson"
+            },
+            "bodyHTML": "<p>I did this by writing middleware.</p>\n<p>That's ... not too shabby.</p>\n<p>I've kept the errorHandler() middleware around, because reasons.</p>",
+            "merged": true,
+            "mergedAt": "2018-04-05T18:44:03Z",
+            "publishedAt": "2018-04-05T18:43:57Z",
+            "reactions": {
+              "nodes": [],
+              "totalCount": 0
+            },
+            "repository": {
+              "name": "kick-off-koa",
+              "owner": {
+                "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
+                "login": "cpilson",
+                "url": "https://github.com/cpilson"
+              },
+              "url": "https://github.com/cpilson/kick-off-koa"
+            },
+            "reviews": {
+              "nodes": []
+            }
+          },
+          {
+            "author": {
+              "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
+              "login": "cpilson",
+              "url": "https://github.com/cpilson"
+            },
+            "bodyHTML": "",
+            "merged": true,
+            "mergedAt": "2018-04-05T18:13:30Z",
+            "publishedAt": "2018-04-05T18:13:24Z",
+            "reactions": {
+              "nodes": [],
+              "totalCount": 0
+            },
+            "repository": {
+              "name": "kick-off-koa",
+              "owner": {
+                "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
+                "login": "cpilson",
+                "url": "https://github.com/cpilson"
+              },
+              "url": "https://github.com/cpilson/kick-off-koa"
+            },
+            "reviews": {
+              "nodes": []
+            }
+          },
+          {
+            "author": {
+              "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
+              "login": "cpilson",
+              "url": "https://github.com/cpilson"
+            },
+            "bodyHTML": "",
+            "merged": true,
+            "mergedAt": "2018-04-05T17:25:09Z",
+            "publishedAt": "2018-04-05T17:25:03Z",
+            "reactions": {
+              "nodes": [],
+              "totalCount": 0
+            },
+            "repository": {
+              "name": "kick-off-koa",
+              "owner": {
+                "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
+                "login": "cpilson",
+                "url": "https://github.com/cpilson"
+              },
+              "url": "https://github.com/cpilson/kick-off-koa"
+            },
+            "reviews": {
+              "nodes": []
+            }
+          },
+          {
+            "author": {
+              "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
+              "login": "cpilson",
+              "url": "https://github.com/cpilson"
+            },
+            "bodyHTML": "",
+            "merged": true,
+            "mergedAt": "2018-04-05T01:01:30Z",
+            "publishedAt": "2018-04-05T01:01:24Z",
+            "reactions": {
+              "nodes": [],
+              "totalCount": 0
+            },
+            "repository": {
+              "name": "kick-off-koa",
+              "owner": {
+                "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
+                "login": "cpilson",
+                "url": "https://github.com/cpilson"
+              },
+              "url": "https://github.com/cpilson/kick-off-koa"
+            },
+            "reviews": {
+              "nodes": []
+            }
+          },
+          {
+            "author": {
+              "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
+              "login": "cpilson",
+              "url": "https://github.com/cpilson"
+            },
+            "bodyHTML": "",
+            "merged": true,
+            "mergedAt": "2018-04-04T22:38:10Z",
+            "publishedAt": "2018-04-04T22:38:05Z",
+            "reactions": {
+              "nodes": [],
+              "totalCount": 0
+            },
+            "repository": {
+              "name": "kick-off-koa",
+              "owner": {
+                "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
+                "login": "cpilson",
+                "url": "https://github.com/cpilson"
+              },
+              "url": "https://github.com/cpilson/kick-off-koa"
+            },
+            "reviews": {
+              "nodes": []
+            }
+          },
+          {
+            "author": {
+              "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
+              "login": "cpilson",
+              "url": "https://github.com/cpilson"
+            },
+            "bodyHTML": "",
+            "merged": true,
+            "mergedAt": "2018-04-04T22:35:32Z",
+            "publishedAt": "2018-04-04T22:35:26Z",
+            "reactions": {
+              "nodes": [],
+              "totalCount": 0
+            },
+            "repository": {
+              "name": "kick-off-koa",
+              "owner": {
+                "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
+                "login": "cpilson",
+                "url": "https://github.com/cpilson"
+              },
+              "url": "https://github.com/cpilson/kick-off-koa"
+            },
+            "reviews": {
+              "nodes": []
+            }
+          },
+          {
+            "author": {
+              "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
+              "login": "cpilson",
+              "url": "https://github.com/cpilson"
+            },
+            "bodyHTML": "",
+            "merged": true,
+            "mergedAt": "2018-04-04T22:09:27Z",
+            "publishedAt": "2018-04-04T22:09:20Z",
+            "reactions": {
+              "nodes": [],
+              "totalCount": 0
+            },
+            "repository": {
+              "name": "kick-off-koa",
+              "owner": {
+                "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
+                "login": "cpilson",
+                "url": "https://github.com/cpilson"
+              },
+              "url": "https://github.com/cpilson/kick-off-koa"
+            },
+            "reviews": {
+              "nodes": []
+            }
+          },
+          {
+            "author": {
+              "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
+              "login": "cpilson",
+              "url": "https://github.com/cpilson"
+            },
+            "bodyHTML": "",
+            "merged": true,
+            "mergedAt": "2018-04-04T21:55:54Z",
+            "publishedAt": "2018-04-04T21:55:48Z",
+            "reactions": {
+              "nodes": [],
+              "totalCount": 0
+            },
+            "repository": {
+              "name": "kick-off-koa",
+              "owner": {
+                "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
+                "login": "cpilson",
+                "url": "https://github.com/cpilson"
+              },
+              "url": "https://github.com/cpilson/kick-off-koa"
+            },
+            "reviews": {
+              "nodes": []
+            }
+          },
+          {
+            "author": {
+              "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
+              "login": "cpilson",
+              "url": "https://github.com/cpilson"
+            },
+            "bodyHTML": "",
+            "merged": true,
+            "mergedAt": "2018-04-04T19:54:23Z",
+            "publishedAt": "2018-04-04T19:54:15Z",
+            "reactions": {
+              "nodes": [],
+              "totalCount": 0
+            },
+            "repository": {
+              "name": "kick-off-koa",
+              "owner": {
+                "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
+                "login": "cpilson",
+                "url": "https://github.com/cpilson"
+              },
+              "url": "https://github.com/cpilson/kick-off-koa"
+            },
+            "reviews": {
+              "nodes": []
+            }
+          },
+          {
+            "author": {
+              "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
+              "login": "cpilson",
+              "url": "https://github.com/cpilson"
+            },
+            "bodyHTML": "<p>Completed and passed challenge 1 of kick-off-koa.</p>",
+            "merged": true,
+            "mergedAt": "2018-04-04T19:45:51Z",
+            "publishedAt": "2018-04-04T19:45:34Z",
+            "reactions": {
+              "nodes": [],
+              "totalCount": 0
+            },
+            "repository": {
+              "name": "kick-off-koa",
+              "owner": {
+                "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
+                "login": "cpilson",
+                "url": "https://github.com/cpilson"
+              },
+              "url": "https://github.com/cpilson/kick-off-koa"
+            },
+            "reviews": {
+              "nodes": []
+            }
+          },
+          {
+            "author": {
+              "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
+              "login": "cpilson",
+              "url": "https://github.com/cpilson"
+            },
+            "bodyHTML": "",
+            "merged": true,
+            "mergedAt": "2018-04-04T19:37:09Z",
+            "publishedAt": "2018-04-04T19:37:01Z",
+            "reactions": {
+              "nodes": [],
+              "totalCount": 0
+            },
+            "repository": {
+              "name": "kick-off-koa",
+              "owner": {
+                "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
+                "login": "cpilson",
+                "url": "https://github.com/cpilson"
+              },
+              "url": "https://github.com/cpilson/kick-off-koa"
+            },
+            "reviews": {
+              "nodes": []
+            }
+          },
+          {
+            "author": {
+              "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
+              "login": "cpilson",
+              "url": "https://github.com/cpilson"
+            },
+            "bodyHTML": "",
+            "merged": true,
+            "mergedAt": "2018-04-03T21:08:08Z",
+            "publishedAt": "2018-04-03T21:08:00Z",
+            "reactions": {
+              "nodes": [],
+              "totalCount": 0
+            },
+            "repository": {
+              "name": "angular-tour-of-heroes",
+              "owner": {
+                "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
+                "login": "cpilson",
+                "url": "https://github.com/cpilson"
+              },
+              "url": "https://github.com/cpilson/angular-tour-of-heroes"
+            },
+            "reviews": {
+              "nodes": []
+            }
+          },
+          {
+            "author": {
+              "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
+              "login": "cpilson",
+              "url": "https://github.com/cpilson"
+            },
+            "bodyHTML": "<p>Also installed Bootstrap and am using this to display the list/edit in \"mostly-two-column\" layout, unless the screen is really quite small.</p>",
+            "merged": true,
+            "mergedAt": "2018-04-03T20:46:41Z",
+            "publishedAt": "2018-04-03T20:46:35Z",
+            "reactions": {
+              "nodes": [],
+              "totalCount": 0
+            },
+            "repository": {
+              "name": "angular-tour-of-heroes",
+              "owner": {
+                "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
+                "login": "cpilson",
+                "url": "https://github.com/cpilson"
+              },
+              "url": "https://github.com/cpilson/angular-tour-of-heroes"
+            },
+            "reviews": {
+              "nodes": []
+            }
+          },
+          {
+            "author": {
+              "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
+              "login": "cpilson",
+              "url": "https://github.com/cpilson"
+            },
+            "bodyHTML": "<p>Working through the end of section 3, \"The Hero Editor,\" in <a href=\"https://angular.io/tutorial/\" rel=\"nofollow\">Angular Heroes</a></p>",
+            "merged": true,
+            "mergedAt": "2018-04-03T17:05:16Z",
+            "publishedAt": "2018-04-03T17:05:00Z",
+            "reactions": {
+              "nodes": [],
+              "totalCount": 0
+            },
+            "repository": {
+              "name": "angular-tour-of-heroes",
+              "owner": {
+                "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
+                "login": "cpilson",
+                "url": "https://github.com/cpilson"
+              },
+              "url": "https://github.com/cpilson/angular-tour-of-heroes"
+            },
+            "reviews": {
+              "nodes": []
+            }
+          },
+          {
+            "author": {
+              "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
+              "login": "cpilson",
+              "url": "https://github.com/cpilson"
+            },
+            "bodyHTML": "<p>Automatically generated by Netlify CMS</p>",
+            "merged": true,
+            "mergedAt": "2018-03-15T08:09:49Z",
+            "publishedAt": "2018-03-15T08:09:31Z",
+            "reactions": {
+              "nodes": [],
+              "totalCount": 0
+            },
+            "repository": {
+              "name": "cpilson.github.io",
+              "owner": {
+                "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
+                "login": "cpilson",
+                "url": "https://github.com/cpilson"
+              },
+              "url": "https://github.com/cpilson/cpilson.github.io"
+            },
+            "reviews": {
+              "nodes": []
+            }
+          },
+          {
+            "author": {
+              "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
+              "login": "cpilson",
+              "url": "https://github.com/cpilson"
+            },
+            "bodyHTML": "<p>Automatically generated by Netlify CMS</p>",
+            "merged": true,
+            "mergedAt": "2018-03-15T07:21:11Z",
+            "publishedAt": "2018-03-15T07:18:19Z",
+            "reactions": {
+              "nodes": [],
+              "totalCount": 0
+            },
+            "repository": {
+              "name": "cpilson.github.io",
+              "owner": {
+                "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
+                "login": "cpilson",
+                "url": "https://github.com/cpilson"
+              },
+              "url": "https://github.com/cpilson/cpilson.github.io"
+            },
+            "reviews": {
+              "nodes": []
+            }
+          },
           {
             "author": {
               "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
@@ -605,7 +1413,649 @@
               "nodes": [
                 {
                   "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
-                  "email": "Chris.Pilson@gmail.com",
+                  "email": "Chris.Pilson+Git@gmail.com",
+                  "login": "cpilson",
+                  "url": "https://github.com/cpilson"
+                }
+              ],
+              "totalCount": 1
+            },
+            "createdAt": "2018-04-02T22:14:23Z",
+            "description": "\"Tour of Heroes,\" but written in Angular 2.",
+            "hasIssuesEnabled": true,
+            "hasWikiEnabled": true,
+            "homepageUrl": null,
+            "id": "MDEwOlJlcG9zaXRvcnkxMjc4MTg0Mjg=",
+            "isPrivate": true,
+            "licenseInfo": null,
+            "name": "angular-tour-of-heroes",
+            "owner": {
+              "avatarUrl": "https://avatars3.githubusercontent.com/u/7672515?s=16&v=4",
+              "login": "cpilson",
+              "url": "https://github.com/cpilson"
+            },
+            "primaryLanguage": {
+              "color": "#2b7489",
+              "name": "TypeScript"
+            },
+            "pushedAt": "2018-04-03T21:08:09Z",
+            "repositoryTopics": {
+              "nodes": [],
+              "totalCount": 0
+            },
+            "sshUrl": "git@github.com:cpilson/angular-tour-of-heroes.git",
+            "stargazers": {
+              "totalCount": 0
+            },
+            "updatedAt": "2019-01-25T09:38:26Z",
+            "url": "https://github.com/cpilson/angular-tour-of-heroes"
+          },
+          {
+            "collaborators": {
+              "nodes": [
+                {
+                  "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
+                  "email": "Chris.Pilson+Git@gmail.com",
+                  "login": "cpilson",
+                  "url": "https://github.com/cpilson"
+                }
+              ],
+              "totalCount": 1
+            },
+            "createdAt": "2019-01-06T16:24:56Z",
+            "description": "An overlay for X-Plane streaming",
+            "hasIssuesEnabled": true,
+            "hasWikiEnabled": true,
+            "homepageUrl": null,
+            "id": "MDEwOlJlcG9zaXRvcnkxNjQzMjQ2NzQ=",
+            "isPrivate": true,
+            "licenseInfo": null,
+            "name": "xplane-overlay",
+            "owner": {
+              "avatarUrl": "https://avatars3.githubusercontent.com/u/7672515?s=16&v=4",
+              "login": "cpilson",
+              "url": "https://github.com/cpilson"
+            },
+            "primaryLanguage": {
+              "color": "#f1e05a",
+              "name": "JavaScript"
+            },
+            "pushedAt": "2019-01-20T11:29:02Z",
+            "repositoryTopics": {
+              "nodes": [
+                {
+                  "topic": {
+                    "name": "x-plane"
+                  }
+                },
+                {
+                  "topic": {
+                    "name": "udp-client"
+                  }
+                },
+                {
+                  "topic": {
+                    "name": "koa2"
+                  }
+                },
+                {
+                  "topic": {
+                    "name": "koajs"
+                  }
+                },
+                {
+                  "topic": {
+                    "name": "pug-template-engine"
+                  }
+                },
+                {
+                  "topic": {
+                    "name": "obs-studio"
+                  }
+                }
+              ],
+              "totalCount": 6
+            },
+            "sshUrl": "git@github.com:cpilson/xplane-overlay.git",
+            "stargazers": {
+              "totalCount": 0
+            },
+            "updatedAt": "2019-01-20T11:29:04Z",
+            "url": "https://github.com/cpilson/xplane-overlay"
+          },
+          {
+            "collaborators": {
+              "nodes": [
+                {
+                  "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
+                  "email": "Chris.Pilson+Git@gmail.com",
+                  "login": "cpilson",
+                  "url": "https://github.com/cpilson"
+                }
+              ],
+              "totalCount": 1
+            },
+            "createdAt": "2018-08-20T03:18:09Z",
+            "description": "Extensible, reliable, modular, PWA ready starter project for Angular (2 and beyond) with statically typed build and AoT compilation",
+            "hasIssuesEnabled": false,
+            "hasWikiEnabled": true,
+            "homepageUrl": "https://mgechev.github.io/angular-seed",
+            "id": "MDEwOlJlcG9zaXRvcnkxNDUzNjA2NTk=",
+            "isPrivate": false,
+            "licenseInfo": {
+              "description": "A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.",
+              "id": "MDc6TGljZW5zZTEz",
+              "name": "MIT License",
+              "nickname": null,
+              "spdxId": "MIT",
+              "permissions": [
+                {
+                  "description": "This software and derivatives may be used for commercial purposes.",
+                  "label": "Commercial use"
+                },
+                {
+                  "description": "This software may be modified.",
+                  "label": "Modification"
+                },
+                {
+                  "description": "This software may be distributed.",
+                  "label": "Distribution"
+                },
+                {
+                  "description": "This software may be used and modified in private.",
+                  "label": "Private use"
+                }
+              ],
+              "url": "http://choosealicense.com/licenses/mit/"
+            },
+            "name": "angular-seed",
+            "owner": {
+              "avatarUrl": "https://avatars3.githubusercontent.com/u/7672515?s=16&v=4",
+              "login": "cpilson",
+              "url": "https://github.com/cpilson"
+            },
+            "primaryLanguage": {
+              "color": "#2b7489",
+              "name": "TypeScript"
+            },
+            "pushedAt": "2018-12-31T10:34:18Z",
+            "repositoryTopics": {
+              "nodes": [],
+              "totalCount": 0
+            },
+            "sshUrl": "git@github.com:cpilson/angular-seed.git",
+            "stargazers": {
+              "totalCount": 0
+            },
+            "updatedAt": "2018-12-31T10:34:27Z",
+            "url": "https://github.com/cpilson/angular-seed"
+          },
+          {
+            "collaborators": {
+              "nodes": [
+                {
+                  "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
+                  "email": "Chris.Pilson+Git@gmail.com",
+                  "login": "cpilson",
+                  "url": "https://github.com/cpilson"
+                }
+              ],
+              "totalCount": 1
+            },
+            "createdAt": "2018-09-10T00:52:39Z",
+            "description": "Simple HTML5 Charts using the <canvas> tag",
+            "hasIssuesEnabled": false,
+            "hasWikiEnabled": false,
+            "homepageUrl": "http://www.chartjs.org/",
+            "id": "MDEwOlJlcG9zaXRvcnkxNDgwNzk2NDk=",
+            "isPrivate": false,
+            "licenseInfo": {
+              "description": "A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.",
+              "id": "MDc6TGljZW5zZTEz",
+              "name": "MIT License",
+              "nickname": null,
+              "spdxId": "MIT",
+              "permissions": [
+                {
+                  "description": "This software and derivatives may be used for commercial purposes.",
+                  "label": "Commercial use"
+                },
+                {
+                  "description": "This software may be modified.",
+                  "label": "Modification"
+                },
+                {
+                  "description": "This software may be distributed.",
+                  "label": "Distribution"
+                },
+                {
+                  "description": "This software may be used and modified in private.",
+                  "label": "Private use"
+                }
+              ],
+              "url": "http://choosealicense.com/licenses/mit/"
+            },
+            "name": "Chart.js",
+            "owner": {
+              "avatarUrl": "https://avatars3.githubusercontent.com/u/7672515?s=16&v=4",
+              "login": "cpilson",
+              "url": "https://github.com/cpilson"
+            },
+            "primaryLanguage": {
+              "color": "#f1e05a",
+              "name": "JavaScript"
+            },
+            "pushedAt": "2018-12-31T10:31:10Z",
+            "repositoryTopics": {
+              "nodes": [],
+              "totalCount": 0
+            },
+            "sshUrl": "git@github.com:cpilson/Chart.js.git",
+            "stargazers": {
+              "totalCount": 0
+            },
+            "updatedAt": "2018-12-31T10:31:31Z",
+            "url": "https://github.com/cpilson/Chart.js"
+          },
+          {
+            "collaborators": {
+              "nodes": [
+                {
+                  "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
+                  "email": "Chris.Pilson+Git@gmail.com",
+                  "login": "cpilson",
+                  "url": "https://github.com/cpilson"
+                }
+              ],
+              "totalCount": 1
+            },
+            "createdAt": "2018-10-29T05:01:05Z",
+            "description": "⚡️ Useful pipes for Angular with no external dependencies! ",
+            "hasIssuesEnabled": false,
+            "hasWikiEnabled": true,
+            "homepageUrl": "https://danrevah.gitbooks.io/angular-pipes",
+            "id": "MDEwOlJlcG9zaXRvcnkxNTUxNTQ1NDE=",
+            "isPrivate": false,
+            "licenseInfo": {
+              "description": "A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.",
+              "id": "MDc6TGljZW5zZTEz",
+              "name": "MIT License",
+              "nickname": null,
+              "spdxId": "MIT",
+              "permissions": [
+                {
+                  "description": "This software and derivatives may be used for commercial purposes.",
+                  "label": "Commercial use"
+                },
+                {
+                  "description": "This software may be modified.",
+                  "label": "Modification"
+                },
+                {
+                  "description": "This software may be distributed.",
+                  "label": "Distribution"
+                },
+                {
+                  "description": "This software may be used and modified in private.",
+                  "label": "Private use"
+                }
+              ],
+              "url": "http://choosealicense.com/licenses/mit/"
+            },
+            "name": "ngx-pipes",
+            "owner": {
+              "avatarUrl": "https://avatars3.githubusercontent.com/u/7672515?s=16&v=4",
+              "login": "cpilson",
+              "url": "https://github.com/cpilson"
+            },
+            "primaryLanguage": {
+              "color": "#2b7489",
+              "name": "TypeScript"
+            },
+            "pushedAt": "2018-10-29T05:51:41Z",
+            "repositoryTopics": {
+              "nodes": [],
+              "totalCount": 0
+            },
+            "sshUrl": "git@github.com:cpilson/ngx-pipes.git",
+            "stargazers": {
+              "totalCount": 0
+            },
+            "updatedAt": "2018-10-29T05:01:07Z",
+            "url": "https://github.com/cpilson/ngx-pipes"
+          },
+          {
+            "collaborators": {
+              "nodes": [
+                {
+                  "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
+                  "email": "Chris.Pilson+Git@gmail.com",
+                  "login": "cpilson",
+                  "url": "https://github.com/cpilson"
+                }
+              ],
+              "totalCount": 1
+            },
+            "createdAt": "2018-10-29T01:03:24Z",
+            "description": "Useful pipes for Angular",
+            "hasIssuesEnabled": false,
+            "hasWikiEnabled": true,
+            "homepageUrl": "https://fknop.gitbooks.io/angular-pipes",
+            "id": "MDEwOlJlcG9zaXRvcnkxNTUxMzIwNjc=",
+            "isPrivate": false,
+            "licenseInfo": {
+              "description": "A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.",
+              "id": "MDc6TGljZW5zZTEz",
+              "name": "MIT License",
+              "nickname": null,
+              "spdxId": "MIT",
+              "permissions": [
+                {
+                  "description": "This software and derivatives may be used for commercial purposes.",
+                  "label": "Commercial use"
+                },
+                {
+                  "description": "This software may be modified.",
+                  "label": "Modification"
+                },
+                {
+                  "description": "This software may be distributed.",
+                  "label": "Distribution"
+                },
+                {
+                  "description": "This software may be used and modified in private.",
+                  "label": "Private use"
+                }
+              ],
+              "url": "http://choosealicense.com/licenses/mit/"
+            },
+            "name": "angular-pipes",
+            "owner": {
+              "avatarUrl": "https://avatars3.githubusercontent.com/u/7672515?s=16&v=4",
+              "login": "cpilson",
+              "url": "https://github.com/cpilson"
+            },
+            "primaryLanguage": {
+              "color": "#2b7489",
+              "name": "TypeScript"
+            },
+            "pushedAt": "2018-10-29T04:31:11Z",
+            "repositoryTopics": {
+              "nodes": [],
+              "totalCount": 0
+            },
+            "sshUrl": "git@github.com:cpilson/angular-pipes.git",
+            "stargazers": {
+              "totalCount": 0
+            },
+            "updatedAt": "2018-10-29T01:03:26Z",
+            "url": "https://github.com/cpilson/angular-pipes"
+          },
+          {
+            "collaborators": {
+              "nodes": [
+                {
+                  "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
+                  "email": "Chris.Pilson+Git@gmail.com",
+                  "login": "cpilson",
+                  "url": "https://github.com/cpilson"
+                }
+              ],
+              "totalCount": 1
+            },
+            "createdAt": "2018-08-20T03:12:42Z",
+            "description": "Angular-Seed Chart Integration Test, forked from angular-seed",
+            "hasIssuesEnabled": true,
+            "hasWikiEnabled": true,
+            "homepageUrl": "",
+            "id": "MDEwOlJlcG9zaXRvcnkxNDUzNjAxOTM=",
+            "isPrivate": false,
+            "licenseInfo": {
+              "description": "A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.",
+              "id": "MDc6TGljZW5zZTEz",
+              "name": "MIT License",
+              "nickname": null,
+              "spdxId": "MIT",
+              "permissions": [
+                {
+                  "description": "This software and derivatives may be used for commercial purposes.",
+                  "label": "Commercial use"
+                },
+                {
+                  "description": "This software may be modified.",
+                  "label": "Modification"
+                },
+                {
+                  "description": "This software may be distributed.",
+                  "label": "Distribution"
+                },
+                {
+                  "description": "This software may be used and modified in private.",
+                  "label": "Private use"
+                }
+              ],
+              "url": "http://choosealicense.com/licenses/mit/"
+            },
+            "name": "angular-seed-chart-test",
+            "owner": {
+              "avatarUrl": "https://avatars3.githubusercontent.com/u/7672515?s=16&v=4",
+              "login": "cpilson",
+              "url": "https://github.com/cpilson"
+            },
+            "primaryLanguage": {
+              "color": "#2b7489",
+              "name": "TypeScript"
+            },
+            "pushedAt": "2018-10-22T06:18:18Z",
+            "repositoryTopics": {
+              "nodes": [
+                {
+                  "topic": {
+                    "name": "angular"
+                  }
+                },
+                {
+                  "topic": {
+                    "name": "angular4"
+                  }
+                },
+                {
+                  "topic": {
+                    "name": "angular-seed"
+                  }
+                },
+                {
+                  "topic": {
+                    "name": "chartjs"
+                  }
+                },
+                {
+                  "topic": {
+                    "name": "charts"
+                  }
+                },
+                {
+                  "topic": {
+                    "name": "graphs"
+                  }
+                },
+                {
+                  "topic": {
+                    "name": "demonstration"
+                  }
+                },
+                {
+                  "topic": {
+                    "name": "proof-of-concept"
+                  }
+                },
+                {
+                  "topic": {
+                    "name": "typescript2"
+                  }
+                },
+                {
+                  "topic": {
+                    "name": "angular2-chartjs"
+                  }
+                }
+              ],
+              "totalCount": 10
+            },
+            "sshUrl": "git@github.com:cpilson/angular-seed-chart-test.git",
+            "stargazers": {
+              "totalCount": 0
+            },
+            "updatedAt": "2018-10-22T06:18:24Z",
+            "url": "https://github.com/cpilson/angular-seed-chart-test"
+          },
+          {
+            "collaborators": {
+              "nodes": [
+                {
+                  "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
+                  "email": "Chris.Pilson+Git@gmail.com",
+                  "login": "cpilson",
+                  "url": "https://github.com/cpilson"
+                }
+              ],
+              "totalCount": 1
+            },
+            "createdAt": "2018-10-05T00:25:10Z",
+            "description": null,
+            "hasIssuesEnabled": true,
+            "hasWikiEnabled": true,
+            "homepageUrl": null,
+            "id": "MDEwOlJlcG9zaXRvcnkxNTE2NTIyNzA=",
+            "isPrivate": true,
+            "licenseInfo": null,
+            "name": "synlio-engineering-notebook",
+            "owner": {
+              "avatarUrl": "https://avatars3.githubusercontent.com/u/7672515?s=16&v=4",
+              "login": "cpilson",
+              "url": "https://github.com/cpilson"
+            },
+            "primaryLanguage": null,
+            "pushedAt": "2018-10-05T00:25:10Z",
+            "repositoryTopics": {
+              "nodes": [],
+              "totalCount": 0
+            },
+            "sshUrl": "git@github.com:cpilson/synlio-engineering-notebook.git",
+            "stargazers": {
+              "totalCount": 0
+            },
+            "updatedAt": "2018-10-05T00:25:10Z",
+            "url": "https://github.com/cpilson/synlio-engineering-notebook"
+          },
+          {
+            "collaborators": {
+              "nodes": [
+                {
+                  "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
+                  "email": "Chris.Pilson+Git@gmail.com",
+                  "login": "cpilson",
+                  "url": "https://github.com/cpilson"
+                }
+              ],
+              "totalCount": 1
+            },
+            "createdAt": "2018-06-24T13:59:04Z",
+            "description": "React Tree Test",
+            "hasIssuesEnabled": true,
+            "hasWikiEnabled": true,
+            "homepageUrl": null,
+            "id": "MDEwOlJlcG9zaXRvcnkxMzg0ODY0MDQ=",
+            "isPrivate": true,
+            "licenseInfo": null,
+            "name": "react-tree-test",
+            "owner": {
+              "avatarUrl": "https://avatars3.githubusercontent.com/u/7672515?s=16&v=4",
+              "login": "cpilson",
+              "url": "https://github.com/cpilson"
+            },
+            "primaryLanguage": {
+              "color": "#f1e05a",
+              "name": "JavaScript"
+            },
+            "pushedAt": "2018-06-24T19:06:00Z",
+            "repositoryTopics": {
+              "nodes": [],
+              "totalCount": 0
+            },
+            "sshUrl": "git@github.com:cpilson/react-tree-test.git",
+            "stargazers": {
+              "totalCount": 0
+            },
+            "updatedAt": "2018-06-24T14:01:39Z",
+            "url": "https://github.com/cpilson/react-tree-test"
+          },
+          {
+            "collaborators": {
+              "nodes": [
+                {
+                  "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
+                  "email": "Chris.Pilson+Git@gmail.com",
+                  "login": "cpilson",
+                  "url": "https://github.com/cpilson"
+                }
+              ],
+              "totalCount": 1
+            },
+            "createdAt": "2018-06-11T06:55:22Z",
+            "description": "A simple Billing Engine back-end, written by Braintrust Applied Research, LLC.",
+            "hasIssuesEnabled": true,
+            "hasWikiEnabled": true,
+            "homepageUrl": null,
+            "id": "MDEwOlJlcG9zaXRvcnkxMzY4ODYzNjA=",
+            "isPrivate": true,
+            "licenseInfo": null,
+            "name": "BTAR-billing-engine",
+            "owner": {
+              "avatarUrl": "https://avatars3.githubusercontent.com/u/7672515?s=16&v=4",
+              "login": "cpilson",
+              "url": "https://github.com/cpilson"
+            },
+            "primaryLanguage": null,
+            "pushedAt": "2018-06-11T06:55:24Z",
+            "repositoryTopics": {
+              "nodes": [
+                {
+                  "topic": {
+                    "name": "billing-api"
+                  }
+                },
+                {
+                  "topic": {
+                    "name": "koa2"
+                  }
+                },
+                {
+                  "topic": {
+                    "name": "javascript-library"
+                  }
+                },
+                {
+                  "topic": {
+                    "name": "rest-api"
+                  }
+                }
+              ],
+              "totalCount": 4
+            },
+            "sshUrl": "git@github.com:cpilson/BTAR-billing-engine.git",
+            "stargazers": {
+              "totalCount": 0
+            },
+            "updatedAt": "2018-06-11T06:56:52Z",
+            "url": "https://github.com/cpilson/BTAR-billing-engine"
+          },
+          {
+            "collaborators": {
+              "nodes": [
+                {
+                  "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
+                  "email": "Chris.Pilson+Git@gmail.com",
                   "login": "cpilson",
                   "url": "https://github.com/cpilson"
                 }
@@ -655,7 +2105,7 @@
               "color": "#e34c26",
               "name": "HTML"
             },
-            "pushedAt": "2018-03-12T22:11:45Z",
+            "pushedAt": "2018-03-15T08:18:12Z",
             "repositoryTopics": {
               "nodes": [
                 {
@@ -723,9 +2173,9 @@
             },
             "sshUrl": "git@github.com:cpilson/cpilson.github.io.git",
             "stargazers": {
-              "totalCount": 0
+              "totalCount": 1
             },
-            "updatedAt": "2018-03-12T22:11:46Z",
+            "updatedAt": "2018-05-31T12:25:21Z",
             "url": "https://github.com/cpilson/cpilson.github.io"
           },
           {
@@ -733,18 +2183,374 @@
               "nodes": [
                 {
                   "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
-                  "email": "Chris.Pilson@gmail.com",
+                  "email": "Chris.Pilson+Git@gmail.com",
                   "login": "cpilson",
                   "url": "https://github.com/cpilson"
                 },
                 {
-                  "avatarUrl": "https://avatars1.githubusercontent.com/u/33035523?s=32&v=4",
+                  "avatarUrl": "https://avatars0.githubusercontent.com/u/33035516?s=32&v=4",
+                  "email": "dugan_dillon@yahoo.com",
+                  "login": "dldugan14",
+                  "url": "https://github.com/dldugan14"
+                },
+                {
+                  "avatarUrl": "https://avatars1.githubusercontent.com/u/33035519?s=32&v=4",
                   "email": "",
+                  "login": "drybonesification",
+                  "url": "https://github.com/drybonesification"
+                },
+                {
+                  "avatarUrl": "https://avatars1.githubusercontent.com/u/33035523?s=32&v=4",
+                  "email": "Demorio@live.com",
                   "login": "Demogl0w",
                   "url": "https://github.com/Demogl0w"
                 }
               ],
-              "totalCount": 2
+              "totalCount": 4
+            },
+            "createdAt": "2018-05-27T03:30:09Z",
+            "description": "While One Code",
+            "hasIssuesEnabled": true,
+            "hasWikiEnabled": true,
+            "homepageUrl": null,
+            "id": "MDEwOlJlcG9zaXRvcnkxMzUwMTI2NzM=",
+            "isPrivate": true,
+            "licenseInfo": {
+              "description": "A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.",
+              "id": "MDc6TGljZW5zZTEz",
+              "name": "MIT License",
+              "nickname": null,
+              "spdxId": "MIT",
+              "permissions": [
+                {
+                  "description": "This software and derivatives may be used for commercial purposes.",
+                  "label": "Commercial use"
+                },
+                {
+                  "description": "This software may be modified.",
+                  "label": "Modification"
+                },
+                {
+                  "description": "This software may be distributed.",
+                  "label": "Distribution"
+                },
+                {
+                  "description": "This software may be used and modified in private.",
+                  "label": "Private use"
+                }
+              ],
+              "url": "http://choosealicense.com/licenses/mit/"
+            },
+            "name": "while-one-code",
+            "owner": {
+              "avatarUrl": "https://avatars3.githubusercontent.com/u/7672515?s=16&v=4",
+              "login": "cpilson",
+              "url": "https://github.com/cpilson"
+            },
+            "primaryLanguage": {
+              "color": "#f1e05a",
+              "name": "JavaScript"
+            },
+            "pushedAt": "2018-05-31T06:21:20Z",
+            "repositoryTopics": {
+              "nodes": [],
+              "totalCount": 0
+            },
+            "sshUrl": "git@github.com:cpilson/while-one-code.git",
+            "stargazers": {
+              "totalCount": 0
+            },
+            "updatedAt": "2018-05-31T06:00:25Z",
+            "url": "https://github.com/cpilson/while-one-code"
+          },
+          {
+            "collaborators": {
+              "nodes": [
+                {
+                  "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
+                  "email": "Chris.Pilson+Git@gmail.com",
+                  "login": "cpilson",
+                  "url": "https://github.com/cpilson"
+                }
+              ],
+              "totalCount": 1
+            },
+            "createdAt": "2018-05-11T00:06:36Z",
+            "description": "Fork of angular-payments that uses Angular 5 and allows the use of TypeScript",
+            "hasIssuesEnabled": false,
+            "hasWikiEnabled": true,
+            "homepageUrl": null,
+            "id": "MDEwOlJlcG9zaXRvcnkxMzI5NjcxMzY=",
+            "isPrivate": false,
+            "licenseInfo": null,
+            "name": "angular-payments-ts",
+            "owner": {
+              "avatarUrl": "https://avatars3.githubusercontent.com/u/7672515?s=16&v=4",
+              "login": "cpilson",
+              "url": "https://github.com/cpilson"
+            },
+            "primaryLanguage": {
+              "color": "#2b7489",
+              "name": "TypeScript"
+            },
+            "pushedAt": "2018-02-20T01:41:06Z",
+            "repositoryTopics": {
+              "nodes": [],
+              "totalCount": 0
+            },
+            "sshUrl": "git@github.com:cpilson/angular-payments-ts.git",
+            "stargazers": {
+              "totalCount": 0
+            },
+            "updatedAt": "2018-05-11T00:06:38Z",
+            "url": "https://github.com/cpilson/angular-payments-ts"
+          },
+          {
+            "collaborators": {
+              "nodes": [
+                {
+                  "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
+                  "email": "Chris.Pilson+Git@gmail.com",
+                  "login": "cpilson",
+                  "url": "https://github.com/cpilson"
+                }
+              ],
+              "totalCount": 1
+            },
+            "createdAt": "2018-04-04T19:06:27Z",
+            "description": "Kick off Koa repo",
+            "hasIssuesEnabled": true,
+            "hasWikiEnabled": true,
+            "homepageUrl": null,
+            "id": "MDEwOlJlcG9zaXRvcnkxMjgxMDg1NTM=",
+            "isPrivate": true,
+            "licenseInfo": null,
+            "name": "kick-off-koa",
+            "owner": {
+              "avatarUrl": "https://avatars3.githubusercontent.com/u/7672515?s=16&v=4",
+              "login": "cpilson",
+              "url": "https://github.com/cpilson"
+            },
+            "primaryLanguage": {
+              "color": "#f1e05a",
+              "name": "JavaScript"
+            },
+            "pushedAt": "2018-04-05T19:44:17Z",
+            "repositoryTopics": {
+              "nodes": [
+                {
+                  "topic": {
+                    "name": "koa2"
+                  }
+                },
+                {
+                  "topic": {
+                    "name": "koajs"
+                  }
+                },
+                {
+                  "topic": {
+                    "name": "middleware"
+                  }
+                },
+                {
+                  "topic": {
+                    "name": "cookies"
+                  }
+                },
+                {
+                  "topic": {
+                    "name": "error-handling"
+                  }
+                }
+              ],
+              "totalCount": 5
+            },
+            "sshUrl": "git@github.com:cpilson/kick-off-koa.git",
+            "stargazers": {
+              "totalCount": 0
+            },
+            "updatedAt": "2018-04-05T19:34:19Z",
+            "url": "https://github.com/cpilson/kick-off-koa"
+          },
+          {
+            "collaborators": {
+              "nodes": [
+                {
+                  "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
+                  "email": "Chris.Pilson+Git@gmail.com",
+                  "login": "cpilson",
+                  "url": "https://github.com/cpilson"
+                }
+              ],
+              "totalCount": 1
+            },
+            "createdAt": "2018-04-04T17:38:51Z",
+            "description": null,
+            "hasIssuesEnabled": true,
+            "hasWikiEnabled": true,
+            "homepageUrl": null,
+            "id": "MDEwOlJlcG9zaXRvcnkxMjgwOTgwMjQ=",
+            "isPrivate": false,
+            "licenseInfo": null,
+            "name": "koa-cors-sandbox",
+            "owner": {
+              "avatarUrl": "https://avatars3.githubusercontent.com/u/7672515?s=16&v=4",
+              "login": "cpilson",
+              "url": "https://github.com/cpilson"
+            },
+            "primaryLanguage": null,
+            "pushedAt": "2018-04-04T17:38:52Z",
+            "repositoryTopics": {
+              "nodes": [],
+              "totalCount": 0
+            },
+            "sshUrl": "git@github.com:cpilson/koa-cors-sandbox.git",
+            "stargazers": {
+              "totalCount": 0
+            },
+            "updatedAt": "2018-04-04T17:38:54Z",
+            "url": "https://github.com/cpilson/koa-cors-sandbox"
+          },
+          {
+            "collaborators": {
+              "nodes": [
+                {
+                  "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
+                  "email": "Chris.Pilson+Git@gmail.com",
+                  "login": "cpilson",
+                  "url": "https://github.com/cpilson"
+                }
+              ],
+              "totalCount": 1
+            },
+            "createdAt": "2018-03-26T21:06:40Z",
+            "description": "A Coding Sandbox",
+            "hasIssuesEnabled": true,
+            "hasWikiEnabled": true,
+            "homepageUrl": null,
+            "id": "MDEwOlJlcG9zaXRvcnkxMjY4OTAwMTU=",
+            "isPrivate": true,
+            "licenseInfo": null,
+            "name": "Sandbox",
+            "owner": {
+              "avatarUrl": "https://avatars3.githubusercontent.com/u/7672515?s=16&v=4",
+              "login": "cpilson",
+              "url": "https://github.com/cpilson"
+            },
+            "primaryLanguage": {
+              "color": "#555555",
+              "name": "C"
+            },
+            "pushedAt": "2018-03-27T23:37:26Z",
+            "repositoryTopics": {
+              "nodes": [],
+              "totalCount": 0
+            },
+            "sshUrl": "git@github.com:cpilson/Sandbox.git",
+            "stargazers": {
+              "totalCount": 0
+            },
+            "updatedAt": "2018-03-27T23:37:27Z",
+            "url": "https://github.com/cpilson/Sandbox"
+          },
+          {
+            "collaborators": {
+              "nodes": [
+                {
+                  "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
+                  "email": "Chris.Pilson+Git@gmail.com",
+                  "login": "cpilson",
+                  "url": "https://github.com/cpilson"
+                }
+              ],
+              "totalCount": 1
+            },
+            "createdAt": "2018-03-14T21:41:36Z",
+            "description": "Express and GraphQL server for the resume-builder project",
+            "hasIssuesEnabled": true,
+            "hasWikiEnabled": true,
+            "homepageUrl": null,
+            "id": "MDEwOlJlcG9zaXRvcnkxMjUyNzcwMTU=",
+            "isPrivate": true,
+            "licenseInfo": {
+              "description": "A permissive license whose main conditions require preservation of copyright and license notices. Contributors provide an express grant of patent rights. Licensed works, modifications, and larger works may be distributed under different terms and without source code.",
+              "id": "MDc6TGljZW5zZTI=",
+              "name": "Apache License 2.0",
+              "nickname": null,
+              "spdxId": "Apache-2.0",
+              "permissions": [
+                {
+                  "description": "This software and derivatives may be used for commercial purposes.",
+                  "label": "Commercial use"
+                },
+                {
+                  "description": "This software may be modified.",
+                  "label": "Modification"
+                },
+                {
+                  "description": "This software may be distributed.",
+                  "label": "Distribution"
+                },
+                {
+                  "description": "This license provides an express grant of patent rights from contributors.",
+                  "label": "Patent use"
+                },
+                {
+                  "description": "This software may be used and modified in private.",
+                  "label": "Private use"
+                }
+              ],
+              "url": "http://choosealicense.com/licenses/apache-2.0/"
+            },
+            "name": "resume-builder-server",
+            "owner": {
+              "avatarUrl": "https://avatars3.githubusercontent.com/u/7672515?s=16&v=4",
+              "login": "cpilson",
+              "url": "https://github.com/cpilson"
+            },
+            "primaryLanguage": null,
+            "pushedAt": "2018-03-16T22:39:36Z",
+            "repositoryTopics": {
+              "nodes": [],
+              "totalCount": 0
+            },
+            "sshUrl": "git@github.com:cpilson/resume-builder-server.git",
+            "stargazers": {
+              "totalCount": 0
+            },
+            "updatedAt": "2018-03-14T21:41:38Z",
+            "url": "https://github.com/cpilson/resume-builder-server"
+          },
+          {
+            "collaborators": {
+              "nodes": [
+                {
+                  "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
+                  "email": "Chris.Pilson+Git@gmail.com",
+                  "login": "cpilson",
+                  "url": "https://github.com/cpilson"
+                },
+                {
+                  "avatarUrl": "https://avatars0.githubusercontent.com/u/33035516?s=32&v=4",
+                  "email": "dugan_dillon@yahoo.com",
+                  "login": "dldugan14",
+                  "url": "https://github.com/dldugan14"
+                },
+                {
+                  "avatarUrl": "https://avatars1.githubusercontent.com/u/33035519?s=32&v=4",
+                  "email": "",
+                  "login": "drybonesification",
+                  "url": "https://github.com/drybonesification"
+                },
+                {
+                  "avatarUrl": "https://avatars1.githubusercontent.com/u/33035523?s=32&v=4",
+                  "email": "Demorio@live.com",
+                  "login": "Demogl0w",
+                  "url": "https://github.com/Demogl0w"
+                }
+              ],
+              "totalCount": 4
             },
             "createdAt": "2018-03-09T17:40:26Z",
             "description": "Web site revamp for LordeCole.com",
@@ -834,7 +2640,7 @@
               "nodes": [
                 {
                   "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
-                  "email": "Chris.Pilson@gmail.com",
+                  "email": "Chris.Pilson+Git@gmail.com",
                   "login": "cpilson",
                   "url": "https://github.com/cpilson"
                 }
@@ -988,7 +2794,7 @@
               "nodes": [
                 {
                   "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
-                  "email": "Chris.Pilson@gmail.com",
+                  "email": "Chris.Pilson+Git@gmail.com",
                   "login": "cpilson",
                   "url": "https://github.com/cpilson"
                 }
@@ -1071,7 +2877,7 @@
               "nodes": [
                 {
                   "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
-                  "email": "Chris.Pilson@gmail.com",
+                  "email": "Chris.Pilson+Git@gmail.com",
                   "login": "cpilson",
                   "url": "https://github.com/cpilson"
                 }
@@ -1086,7 +2892,7 @@
             "id": "MDEwOlJlcG9zaXRvcnkxMTI3NjA0MjA=",
             "isPrivate": false,
             "licenseInfo": {
-              "description": "The <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">Creative Commons CC0 Public Domain Dedication</a> waives copyright interest in any a work you've created and dedicates it to the world-wide public domain. Use CC0 to opt out of copyright entirely and ensure your work has the widest reach. As with the Unlicense and typical software licenses, CC0 disclaims warranties. CC0 is very similar to the Unlicense.",
+              "description": "The <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">Creative Commons CC0 Public Domain Dedication</a> waives copyright interest in a work you've created and dedicates it to the world-wide public domain. Use CC0 to opt out of copyright entirely and ensure your work has the widest reach. As with the Unlicense and typical software licenses, CC0 disclaims warranties. CC0 is very similar to the Unlicense.",
               "id": "MDc6TGljZW5zZTY=",
               "name": "Creative Commons Zero v1.0 Universal",
               "nickname": null,
@@ -1154,7 +2960,7 @@
               "nodes": [
                 {
                   "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
-                  "email": "Chris.Pilson@gmail.com",
+                  "email": "Chris.Pilson+Git@gmail.com",
                   "login": "cpilson",
                   "url": "https://github.com/cpilson"
                 }
@@ -1257,7 +3063,7 @@
               "nodes": [
                 {
                   "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
-                  "email": "Chris.Pilson@gmail.com",
+                  "email": "Chris.Pilson+Git@gmail.com",
                   "login": "cpilson",
                   "url": "https://github.com/cpilson"
                 }
@@ -1350,7 +3156,7 @@
               "nodes": [
                 {
                   "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
-                  "email": "Chris.Pilson@gmail.com",
+                  "email": "Chris.Pilson+Git@gmail.com",
                   "login": "cpilson",
                   "url": "https://github.com/cpilson"
                 },
@@ -1368,7 +3174,7 @@
                 },
                 {
                   "avatarUrl": "https://avatars1.githubusercontent.com/u/33035523?s=32&v=4",
-                  "email": "",
+                  "email": "Demorio@live.com",
                   "login": "Demogl0w",
                   "url": "https://github.com/Demogl0w"
                 }
@@ -1461,7 +3267,7 @@
               "nodes": [
                 {
                   "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
-                  "email": "Chris.Pilson@gmail.com",
+                  "email": "Chris.Pilson+Git@gmail.com",
                   "login": "cpilson",
                   "url": "https://github.com/cpilson"
                 }
@@ -1554,7 +3360,7 @@
               "nodes": [
                 {
                   "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
-                  "email": "Chris.Pilson@gmail.com",
+                  "email": "Chris.Pilson+Git@gmail.com",
                   "login": "cpilson",
                   "url": "https://github.com/cpilson"
                 },
@@ -1602,7 +3408,7 @@
               "nodes": [
                 {
                   "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
-                  "email": "Chris.Pilson@gmail.com",
+                  "email": "Chris.Pilson+Git@gmail.com",
                   "login": "cpilson",
                   "url": "https://github.com/cpilson"
                 },
@@ -1647,7 +3453,7 @@
               "nodes": [
                 {
                   "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
-                  "email": "Chris.Pilson@gmail.com",
+                  "email": "Chris.Pilson+Git@gmail.com",
                   "login": "cpilson",
                   "url": "https://github.com/cpilson"
                 },
@@ -1665,7 +3471,7 @@
                 },
                 {
                   "avatarUrl": "https://avatars1.githubusercontent.com/u/33035523?s=32&v=4",
-                  "email": "",
+                  "email": "Demorio@live.com",
                   "login": "Demogl0w",
                   "url": "https://github.com/Demogl0w"
                 }
@@ -1704,7 +3510,7 @@
               "nodes": [
                 {
                   "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
-                  "email": "Chris.Pilson@gmail.com",
+                  "email": "Chris.Pilson+Git@gmail.com",
                   "login": "cpilson",
                   "url": "https://github.com/cpilson"
                 }
@@ -1746,7 +3552,7 @@
               "nodes": [
                 {
                   "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
-                  "email": "Chris.Pilson@gmail.com",
+                  "email": "Chris.Pilson+Git@gmail.com",
                   "login": "cpilson",
                   "url": "https://github.com/cpilson"
                 }
@@ -1788,7 +3594,7 @@
               "nodes": [
                 {
                   "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
-                  "email": "Chris.Pilson@gmail.com",
+                  "email": "Chris.Pilson+Git@gmail.com",
                   "login": "cpilson",
                   "url": "https://github.com/cpilson"
                 }
@@ -1830,7 +3636,7 @@
               "nodes": [
                 {
                   "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
-                  "email": "Chris.Pilson@gmail.com",
+                  "email": "Chris.Pilson+Git@gmail.com",
                   "login": "cpilson",
                   "url": "https://github.com/cpilson"
                 }
@@ -1872,7 +3678,7 @@
               "nodes": [
                 {
                   "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
-                  "email": "Chris.Pilson@gmail.com",
+                  "email": "Chris.Pilson+Git@gmail.com",
                   "login": "cpilson",
                   "url": "https://github.com/cpilson"
                 }
@@ -1914,7 +3720,7 @@
               "nodes": [
                 {
                   "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
-                  "email": "Chris.Pilson@gmail.com",
+                  "email": "Chris.Pilson+Git@gmail.com",
                   "login": "cpilson",
                   "url": "https://github.com/cpilson"
                 }
@@ -1956,7 +3762,7 @@
               "nodes": [
                 {
                   "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
-                  "email": "Chris.Pilson@gmail.com",
+                  "email": "Chris.Pilson+Git@gmail.com",
                   "login": "cpilson",
                   "url": "https://github.com/cpilson"
                 }
@@ -1998,7 +3804,7 @@
               "nodes": [
                 {
                   "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
-                  "email": "Chris.Pilson@gmail.com",
+                  "email": "Chris.Pilson+Git@gmail.com",
                   "login": "cpilson",
                   "url": "https://github.com/cpilson"
                 }
@@ -2040,7 +3846,7 @@
               "nodes": [
                 {
                   "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
-                  "email": "Chris.Pilson@gmail.com",
+                  "email": "Chris.Pilson+Git@gmail.com",
                   "login": "cpilson",
                   "url": "https://github.com/cpilson"
                 }
@@ -2082,7 +3888,7 @@
               "nodes": [
                 {
                   "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
-                  "email": "Chris.Pilson@gmail.com",
+                  "email": "Chris.Pilson+Git@gmail.com",
                   "login": "cpilson",
                   "url": "https://github.com/cpilson"
                 }
@@ -2124,7 +3930,7 @@
               "nodes": [
                 {
                   "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
-                  "email": "Chris.Pilson@gmail.com",
+                  "email": "Chris.Pilson+Git@gmail.com",
                   "login": "cpilson",
                   "url": "https://github.com/cpilson"
                 }
@@ -2166,7 +3972,7 @@
               "nodes": [
                 {
                   "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
-                  "email": "Chris.Pilson@gmail.com",
+                  "email": "Chris.Pilson+Git@gmail.com",
                   "login": "cpilson",
                   "url": "https://github.com/cpilson"
                 }
@@ -2208,7 +4014,7 @@
               "nodes": [
                 {
                   "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
-                  "email": "Chris.Pilson@gmail.com",
+                  "email": "Chris.Pilson+Git@gmail.com",
                   "login": "cpilson",
                   "url": "https://github.com/cpilson"
                 }
@@ -2250,7 +4056,7 @@
               "nodes": [
                 {
                   "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
-                  "email": "Chris.Pilson@gmail.com",
+                  "email": "Chris.Pilson+Git@gmail.com",
                   "login": "cpilson",
                   "url": "https://github.com/cpilson"
                 }
@@ -2289,7 +4095,7 @@
               "nodes": [
                 {
                   "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
-                  "email": "Chris.Pilson@gmail.com",
+                  "email": "Chris.Pilson+Git@gmail.com",
                   "login": "cpilson",
                   "url": "https://github.com/cpilson"
                 }
@@ -2331,7 +4137,7 @@
               "nodes": [
                 {
                   "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
-                  "email": "Chris.Pilson@gmail.com",
+                  "email": "Chris.Pilson+Git@gmail.com",
                   "login": "cpilson",
                   "url": "https://github.com/cpilson"
                 }
@@ -2373,7 +4179,7 @@
               "nodes": [
                 {
                   "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
-                  "email": "Chris.Pilson@gmail.com",
+                  "email": "Chris.Pilson+Git@gmail.com",
                   "login": "cpilson",
                   "url": "https://github.com/cpilson"
                 }
@@ -2411,7 +4217,7 @@
             "url": "https://github.com/cpilson/CoderCamps-Week1FinalProject"
           }
         ],
-        "totalCount": 29
+        "totalCount": 45
       },
       "url": "https://github.com/cpilson",
       "websiteUrl": "https://cpilson.github.io"
