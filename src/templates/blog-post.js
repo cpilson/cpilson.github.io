@@ -1,5 +1,6 @@
 import React from 'react';
 import Helmet from 'react-helmet';
+import { FaCalendar } from 'react-icons/lib/fa';
 const moment = require('moment');
 
 // import '../css/blog-post.css'; // no need for styles here.
@@ -13,7 +14,7 @@ export default function Template ({ data }) {
         (
             <div className="blog-post">
                 <h1>{post.frontmatter.title}</h1>
-                <h3>{moment(post.frontmatter.date).format("dddd, MMMM Do YYYY, h:mm:ss a")}, {moment(post.frontmatter.date).fromNow()}</h3>
+                <h3><FaCalendar className="fa pull-left mr-2"/> {moment(post.frontmatter.date).format("dddd, MMMM Do YYYY, h:mm:ss a")}, {moment(post.frontmatter.date).fromNow()}</h3>
                 <div
                     className="blog-post-content"
                     dangerouslySetInnerHTML={{__html: post.html}}
