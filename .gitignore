@@ -6,6 +6,10 @@ npm-debug.log*
 # Gatsby web page generation
 public/
 
+# IDEs
+.idea/
+.cache/
+
 # Environment variables
 .env
 .env.production

@@ -4,7 +4,7 @@ import React from 'react';
 const Footer = () => (
   <div className="navbar navbar-default navbar-fixed-bottom">
     <footer>
-      <p>&copy; Chris Pilson 2018</p>
+      <p>&copy; Chris Pilson {new Date().getFullYear()}</p>
     </footer>
   </div>
 );

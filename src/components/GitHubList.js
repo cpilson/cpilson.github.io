@@ -1,7 +1,7 @@
 // import Link from 'gatsby-link';
 import PropTypes from 'prop-types';
 import React, { Component } from 'react';
-import { FaLock, FaUnlockAlt } from 'react-icons/lib/fa';
+import { FaLock, FaUnlockAlt, FaCodeFork } from 'react-icons/lib/fa';
 import GitHubDetailsModal from './GitHubDetailsModal';
 import '../scss/index.scss';
 
@@ -15,7 +15,7 @@ class GitHubList extends Component {
 
   toggleModal = (node) => {
     this.setState({ isOpen: !this.state.isOpen, selectedNode: node });
-  }
+  };
 
   sortByCreatedAt (a, b) {
     // Use toUpperCase() to ignore character casing
@@ -33,21 +33,20 @@ class GitHubList extends Component {
 
   render () {
     const { data } = this.props;
-    // data.user.repositories.nodes.sort(this.sortByCreatedAt);
 
     return (
       <div>
         {data.user.repositories.nodes.map((node) => {
           const repoPrivacy = node.isPrivate ? <FaLock className="fa pull-right" /> : <FaUnlockAlt className="fa pull-right" />;
           const privateRepoSpan2 = node.isPrivate ? (<span className="sr-only">Private Repository</span>) : null;
-          // console.log(node.repositoryTopics.edges.sort());
+          const isFork = (!!node.homepageUrl && !node.homepageUrl.toString().includes("cpilson")) ? (<a href={node.homepageUrl} alt={"Forked from " + node.homepageUrl}><FaCodeFork className="fa pull-right" /></a>) : null;
           return (
             <div
               className={node.isPrivate ? 'panel panel-danger' : 'panel panel-primary'}
               key={node.id}
               onClick={node.isPrivate ? null : () => this.toggleModal(node)}
             >
-              <div className="panel-heading"><h3 className="panel-title">{node.isPrivate ? 'PRIVATE REPO' : node.name}{repoPrivacy}{privateRepoSpan2}</h3></div>
+              <div className="panel-heading"><h3 className="panel-title">{node.isPrivate ? 'PRIVATE REPO' : node.name}{repoPrivacy}{privateRepoSpan2}{isFork}</h3></div>
               <div className="panel-body">{node.isPrivate ? 'DESCRIPTION NOT AVAILABLE; PRIVATE REPO' : node.description}</div>
               <div className="panel-footer">
                 {node.repositoryTopics.nodes.map((repositoryTopicsNode, index) => {

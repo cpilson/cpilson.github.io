@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
+const moment = require('moment');
 
 class GitHubDetailsModal extends Component {
   render() {
@@ -35,9 +36,9 @@ class GitHubDetailsModal extends Component {
           {/* {this.props.children} */}
           <h2><a href={this.props.repo.url} target="_blank" rel="noopener noreferrer">{this.props.repo.name}</a></h2>
           <p>{this.props.repo.description}</p>
-          <p>Created: {this.props.repo.createdAt}</p>
-          <p>Updated: {this.props.repo.updatedAt}</p>
-          <p>Pushed: {this.props.repo.pushedAt}</p>
+          <p>Created: {moment(this.props.repo.createdAt).format("dddd, MMMM Do YYYY, h:mm:ss a")}</p>
+          <p>Updated: {moment(this.props.repo.updatedAt).format("dddd, MMMM Do YYYY, h:mm:ss a")}, {moment(this.props.repo.updatedAt).fromNow()}</p>
+          <p>Pushed: {moment(this.props.repo.pushedAt).format("dddd, MMMM Do YYYY, h:mm:ss a")}</p>
 
           <div className="footer">
             <button onClick={this.props.onClose}>

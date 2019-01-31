@@ -8,7 +8,7 @@ See you there!
 
 ## Why _Gatsby_
 
-Gatsby was recommended to me by a mentor. I had seen Jekyll in use before and knew one could run/push a blog or simple web site to the world using Jekyll. Gatsby compiles React code into a static site, _and_ supports GraphQL natively and via plugins. GraphQL is, incidentally, how I'm pulling in my repo metadata, albeit in snapshot form rather than a real-time fetch.
+Gatsby was recommended to me by a mentor over the winter of 2017-2018. I had seen Jekyll in use before and knew one could run/push a blog or simple web site to the world using Jekyll. Gatsby compiles React code into a static site, _and_ supports GraphQL natively and via plugins. GraphQL is, incidentally, how I'm pulling in my repo metadata, albeit in snapshot form rather than a real-time fetch.
 
 ## How to use/compile this suite
 

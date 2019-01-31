@@ -10,7 +10,7 @@ const IndexPage = ({ data }) => (
   <div>
     <h3>This site provides a web-friendly window into my GitHub data</h3>
     <blockquote dangerouslySetInnerHTML={{ __html: (githubrepos.data.user.bioHTML) }} />
-    <p>I am a software developer and am currently involved with at least {githubrepos.data.user.repositories.totalCount} <Link to="/githubrepos">GitHub repositories.</Link></p>
+    <p>I am a software engineer and am currently involved with at least {githubrepos.data.user.repositories.totalCount} <Link to="/githubrepos">GitHub repositories.</Link></p>
     <p>I strongly believe in connecting people through software and collaboration. Currently, I am {githubrepos.data.user.isHireable ? <a href={emailLink}><strong>available</strong></a> : <strong>unavailable</strong>} for hiring.</p>
     <p>If you think along similar lines insofar as technology, {githubrepos.data.user.isHireable ? 'or are looking to hire a seasoned DevOps type with current experience in the JavaScript full stack,' : null} <a href={emailLink}>contact me</a> and we&apos;ll chat.</p>
   </div>
