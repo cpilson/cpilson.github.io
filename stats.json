@@ -5,8 +5,8 @@
       "path---blog-2018-02-27-another-test-final-test-fb729407314aa2beb94f.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-fa83565f60b28bf19e79.js",
-      "component---src-pages-index-js-fa83565f60b28bf19e79.js.map"
+      "component---src-pages-index-js-d8099d2080a33f15d6fd.js",
+      "component---src-pages-index-js-d8099d2080a33f15d6fd.js.map"
     ],
     "path---githubrepos": [
       "path---githubrepos-a0e39f21c11f6a62c5ab.js",
@@ -27,10 +27,6 @@
     "component---src-layouts-index-js": [
       "component---src-layouts-index-js-a99f2e8ac2991ed604f3.js",
       "component---src-layouts-index-js-a99f2e8ac2991ed604f3.js.map"
-    ],
-    "path---page-2": [
-      "path---page-2-a0e39f21c11f6a62c5ab.js",
-      "path---page-2-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---index": [
       "path---index-a0e39f21c11f6a62c5ab.js",
@@ -68,17 +64,13 @@
       "path---footer-a0e39f21c11f6a62c5ab.js",
       "path---footer-a0e39f21c11f6a62c5ab.js.map"
     ],
-    "component---src-pages-page-2-js": [
-      "component---src-pages-page-2-js-075954cd9c4544c7dcd8.js",
-      "component---src-pages-page-2-js-075954cd9c4544c7dcd8.js.map"
-    ],
     "component---src-pages-footer-index-js": [
       "component---src-pages-footer-index-js-643887a60c0f4134746c.js",
       "component---src-pages-footer-index-js-643887a60c0f4134746c.js.map"
     ],
     "app": [
-      "app-7168d35741b3758ec8a7.js",
-      "app-7168d35741b3758ec8a7.js.map"
+      "app-03849226b7aa50b6f9f5.js",
+      "app-03849226b7aa50b6f9f5.js.map"
     ],
     "path---blog-2018-02-28-deploy-test": [
       "path---blog-2018-02-28-deploy-test-64ab4815b0e3f3a5af10.js",
@@ -93,8 +85,8 @@
       "path---blog-2018-02-26-test-testing-2bfc0025f9a446cb3cb8.js.map"
     ],
     "component---src-pages-githubrepos-js": [
-      "component---src-pages-githubrepos-js-54c32388ed9e3e52f813.js",
-      "component---src-pages-githubrepos-js-54c32388ed9e3e52f813.js.map"
+      "component---src-pages-githubrepos-js-22f437fbc6420ab782dc.js",
+      "component---src-pages-githubrepos-js-22f437fbc6420ab782dc.js.map"
     ],
     "component---src-pages-about-js": [
       "component---src-pages-about-js-594e202e927e4390e45e.js",

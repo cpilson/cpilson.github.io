@@ -1420,6 +1420,134 @@
               ],
               "totalCount": 1
             },
+            "createdAt": "2018-02-17T06:09:26Z",
+            "description": "Chris Pilson's GitHub Dev Site",
+            "hasIssuesEnabled": true,
+            "hasWikiEnabled": true,
+            "homepageUrl": "https://cpilson.github.io/",
+            "id": "MDEwOlJlcG9zaXRvcnkxMjE4MzIwNTI=",
+            "isPrivate": false,
+            "licenseInfo": {
+              "description": "A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.",
+              "id": "MDc6TGljZW5zZTEz",
+              "name": "MIT License",
+              "nickname": null,
+              "spdxId": "MIT",
+              "permissions": [
+                {
+                  "description": "This software and derivatives may be used for commercial purposes.",
+                  "label": "Commercial use"
+                },
+                {
+                  "description": "This software may be modified.",
+                  "label": "Modification"
+                },
+                {
+                  "description": "This software may be distributed.",
+                  "label": "Distribution"
+                },
+                {
+                  "description": "This software may be used and modified in private.",
+                  "label": "Private use"
+                }
+              ],
+              "url": "http://choosealicense.com/licenses/mit/"
+            },
+            "name": "cpilson.github.io",
+            "owner": {
+              "avatarUrl": "https://avatars3.githubusercontent.com/u/7672515?s=16&v=4",
+              "login": "cpilson",
+              "url": "https://github.com/cpilson"
+            },
+            "primaryLanguage": {
+              "color": "#e34c26",
+              "name": "HTML"
+            },
+            "pushedAt": "2019-01-31T20:16:09Z",
+            "repositoryTopics": {
+              "nodes": [
+                {
+                  "topic": {
+                    "name": "developer"
+                  }
+                },
+                {
+                  "topic": {
+                    "name": "blog"
+                  }
+                },
+                {
+                  "topic": {
+                    "name": "html"
+                  }
+                },
+                {
+                  "topic": {
+                    "name": "website"
+                  }
+                },
+                {
+                  "topic": {
+                    "name": "gatsbyjs"
+                  }
+                },
+                {
+                  "topic": {
+                    "name": "gatsby"
+                  }
+                },
+                {
+                  "topic": {
+                    "name": "react"
+                  }
+                },
+                {
+                  "topic": {
+                    "name": "ssr"
+                  }
+                },
+                {
+                  "topic": {
+                    "name": "sass"
+                  }
+                },
+                {
+                  "topic": {
+                    "name": "github"
+                  }
+                },
+                {
+                  "topic": {
+                    "name": "github-pages"
+                  }
+                },
+                {
+                  "topic": {
+                    "name": "reactjs"
+                  }
+                }
+              ],
+              "totalCount": 12
+            },
+            "sshUrl": "git@github.com:cpilson/cpilson.github.io.git",
+            "stargazers": {
+              "totalCount": 1
+            },
+            "updatedAt": "2019-01-31T20:16:14Z",
+            "url": "https://github.com/cpilson/cpilson.github.io"
+          },
+          {
+            "collaborators": {
+              "nodes": [
+                {
+                  "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
+                  "email": "Chris.Pilson+Git@gmail.com",
+                  "login": "cpilson",
+                  "url": "https://github.com/cpilson"
+                }
+              ],
+              "totalCount": 1
+            },
             "createdAt": "2018-04-02T22:14:23Z",
             "description": "\"Tour of Heroes,\" but written in Angular 2.",
             "hasIssuesEnabled": true,
@@ -2049,134 +2177,6 @@
             },
             "updatedAt": "2018-06-11T06:56:52Z",
             "url": "https://github.com/cpilson/BTAR-billing-engine"
-          },
-          {
-            "collaborators": {
-              "nodes": [
-                {
-                  "avatarUrl": "https://avatars0.githubusercontent.com/u/7672515?s=32&v=4",
-                  "email": "Chris.Pilson+Git@gmail.com",
-                  "login": "cpilson",
-                  "url": "https://github.com/cpilson"
-                }
-              ],
-              "totalCount": 1
-            },
-            "createdAt": "2018-02-17T06:09:26Z",
-            "description": "Chris Pilson's GitHub Dev Site",
-            "hasIssuesEnabled": true,
-            "hasWikiEnabled": true,
-            "homepageUrl": "https://cpilson.github.io/",
-            "id": "MDEwOlJlcG9zaXRvcnkxMjE4MzIwNTI=",
-            "isPrivate": false,
-            "licenseInfo": {
-              "description": "A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.",
-              "id": "MDc6TGljZW5zZTEz",
-              "name": "MIT License",
-              "nickname": null,
-              "spdxId": "MIT",
-              "permissions": [
-                {
-                  "description": "This software and derivatives may be used for commercial purposes.",
-                  "label": "Commercial use"
-                },
-                {
-                  "description": "This software may be modified.",
-                  "label": "Modification"
-                },
-                {
-                  "description": "This software may be distributed.",
-                  "label": "Distribution"
-                },
-                {
-                  "description": "This software may be used and modified in private.",
-                  "label": "Private use"
-                }
-              ],
-              "url": "http://choosealicense.com/licenses/mit/"
-            },
-            "name": "cpilson.github.io",
-            "owner": {
-              "avatarUrl": "https://avatars3.githubusercontent.com/u/7672515?s=16&v=4",
-              "login": "cpilson",
-              "url": "https://github.com/cpilson"
-            },
-            "primaryLanguage": {
-              "color": "#e34c26",
-              "name": "HTML"
-            },
-            "pushedAt": "2018-03-15T08:18:12Z",
-            "repositoryTopics": {
-              "nodes": [
-                {
-                  "topic": {
-                    "name": "developer"
-                  }
-                },
-                {
-                  "topic": {
-                    "name": "blog"
-                  }
-                },
-                {
-                  "topic": {
-                    "name": "html"
-                  }
-                },
-                {
-                  "topic": {
-                    "name": "website"
-                  }
-                },
-                {
-                  "topic": {
-                    "name": "gatsbyjs"
-                  }
-                },
-                {
-                  "topic": {
-                    "name": "gatsby"
-                  }
-                },
-                {
-                  "topic": {
-                    "name": "react"
-                  }
-                },
-                {
-                  "topic": {
-                    "name": "ssr"
-                  }
-                },
-                {
-                  "topic": {
-                    "name": "sass"
-                  }
-                },
-                {
-                  "topic": {
-                    "name": "github"
-                  }
-                },
-                {
-                  "topic": {
-                    "name": "github-pages"
-                  }
-                },
-                {
-                  "topic": {
-                    "name": "reactjs"
-                  }
-                }
-              ],
-              "totalCount": 12
-            },
-            "sshUrl": "git@github.com:cpilson/cpilson.github.io.git",
-            "stargazers": {
-              "totalCount": 1
-            },
-            "updatedAt": "2018-05-31T12:25:21Z",
-            "url": "https://github.com/cpilson/cpilson.github.io"
           },
           {
             "collaborators": {
