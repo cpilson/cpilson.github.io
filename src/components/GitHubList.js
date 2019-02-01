@@ -39,15 +39,14 @@ class GitHubList extends Component {
         {data.user.repositories.nodes.map((node) => {
           const repoPrivacy = node.isPrivate ? <FaLock className="fa pull-right" /> : <FaUnlockAlt className="fa pull-right" />;
           const privateRepoSpan2 = node.isPrivate ? (<span className="sr-only">Private Repository</span>) : null;
-          const isFork = (!!node.homepageUrl && !node.homepageUrl.toString().includes("cpilson")) ? (<a href={node.homepageUrl} alt={"Forked from " + node.homepageUrl}><FaCodeFork className="fa pull-right" /></a>) : null;
+          const isFork = (!!node.homepageUrl && !node.homepageUrl.toString().includes("cpilson")) ? (<a className="fa pull-right" href={node.homepageUrl} alt={"Forked from " + node.homepageUrl}><FaCodeFork className="fa pull-right" /></a>) : null;
           return (
             <div
               className={node.isPrivate ? 'panel panel-danger' : 'panel panel-primary'}
               key={node.id}
-              onClick={node.isPrivate ? null : () => this.toggleModal(node)}
             >
               <div className="panel-heading"><h3 className="panel-title">{node.isPrivate ? 'PRIVATE REPO' : node.name}{repoPrivacy}{privateRepoSpan2}{isFork}</h3></div>
-              <div className="panel-body">{node.isPrivate ? 'DESCRIPTION NOT AVAILABLE; PRIVATE REPO' : node.description}</div>
+              <div className="panel-body" onClick={node.isPrivate ? null : () => this.toggleModal(node)}>{node.isPrivate ? 'DESCRIPTION NOT AVAILABLE; PRIVATE REPO' : node.description}</div>
               <div className="panel-footer">
                 {node.repositoryTopics.nodes.map((repositoryTopicsNode, index) => {
                   let topicPillMargin = ['5px', '5px'];
