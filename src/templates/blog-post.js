@@ -14,7 +14,7 @@ export default function Template ({ data }) {
         (
             <div className="blog-post">
                 <h1>{post.frontmatter.title}</h1>
-                <h3><span className="fa pull-left"><FaCalendar className="fa pull-left"/></span> {moment(post.frontmatter.date).format("dddd, MMMM Do YYYY, h:mm:ss a")}, {moment(post.frontmatter.date).fromNow()}</h3>
+                <h3><span className="fa pull-left"><FaCalendar className="fa pull-left"/></span>&nbsp; {moment(post.frontmatter.date).parseZone().format("dddd, MMMM Do YYYY, h:mm:ss a")}, {moment(post.frontmatter.date).parseZone().fromNow()}</h3>
                 <div
                     className="blog-post-content"
                     dangerouslySetInnerHTML={{__html: post.html}}
