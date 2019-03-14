@@ -13,8 +13,8 @@
       "path---githubrepos-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---blog": [
-      "path---blog-ca68da52abdeea0d3a36.js",
-      "path---blog-ca68da52abdeea0d3a36.js.map"
+      "path---blog-d16f7836611ed3b075ff.js",
+      "path---blog-d16f7836611ed3b075ff.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
@@ -64,6 +64,10 @@
       "path---footer-a0e39f21c11f6a62c5ab.js",
       "path---footer-a0e39f21c11f6a62c5ab.js.map"
     ],
+    "path---blog-2019-03-14-on-apis-swagger-or-stumble": [
+      "path---blog-2019-03-14-on-apis-swagger-or-stumble-2a41adf1ef189bace318.js",
+      "path---blog-2019-03-14-on-apis-swagger-or-stumble-2a41adf1ef189bace318.js.map"
+    ],
     "component---src-pages-footer-index-js": [
       "component---src-pages-footer-index-js-643887a60c0f4134746c.js",
       "component---src-pages-footer-index-js-643887a60c0f4134746c.js.map"
@@ -73,8 +77,8 @@
       "path---blog-2019-02-08-on-software-engineering-a462e25d2d7e4f774e8b.js.map"
     ],
     "app": [
-      "app-febf2bc7e1f1619e5025.js",
-      "app-febf2bc7e1f1619e5025.js.map"
+      "app-e2ff5da84fea419df0f1.js",
+      "app-e2ff5da84fea419df0f1.js.map"
     ],
     "path---blog-2018-02-28-deploy-test": [
       "path---blog-2018-02-28-deploy-test-204aab35ec4c02cfbdb7.js",
