@@ -1,5 +1,5 @@
 ---
-path: /blog/
+path: /blog/2019-03-14_on-apis-swagger-or-stumble
 layout: blog
 title: 'On APIs: Swagger, or stumble?'
 date: '2019-03-14T15:23:37-07:00'
