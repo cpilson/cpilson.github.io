@@ -4,7 +4,7 @@ layout: blog
 title: 'On APIs: Swagger, or stumble?'
 date: '2019-03-14T15:23:37-07:00'
 ---
-> \[[Swagger](https://swagger.io/)\], or something like it, seems a good hedge against you-of-the-future cursing your past self for shortsighted and possibly slipshod design. In effect, using such tools can help you become a more [compassionate engineer](/blog/2019-02-08_on-software-engineering), if only to yourself.
+> \[[Swagger](https://swagger.io/)\], or something like it, seems a good hedge against you-of-the-future cursing your past self for shortsighted and possibly slipshod design. In effect, using such tools can help you become a more [considerate engineer](/blog/2019-02-08_on-software-engineering), if only to yourself.
 
 I have been thinking about APIs for years, both on the "consuming" and "creating" side.
 
@@ -17,4 +17,4 @@ I am currently building a collection of APIs to support a SaaS project I'm worki
 
 I would rather use this hour to write and improve software.
 
-I am not sold that Swagger is the best tool out there for this task, but as a starting-point it seems a solid move. If nothing else, it gives a high-level overview of what your API is trying to accomplish, lets you see naming conventions that are out of line with the rest of the API, and can allow you to mock out return types and status codes for future implementation. It, or something like it, seems a good hedge against you-of-the-future cursing your past self for shortsighted and possibly slipshod design. In effect, using such tools can help you become a more compassionate engineer, if only to yourself.
+I am not sold that Swagger is the best tool out there for this task, but as a starting-point it seems a solid move. If nothing else, it gives a high-level overview of what your API is trying to accomplish, lets you see naming conventions that are out of line with the rest of the API, and can allow you to mock out return types and status codes for future implementation. It, or something like it, seems a good hedge against you-of-the-future cursing your past self for shortsighted and possibly slipshod design. In effect, using such tools can help you become a more considerate engineer, if only to yourself.
