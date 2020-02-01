@@ -9,8 +9,8 @@
       "path---githubrepos-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---blog": [
-      "path---blog-3e99867b48fbbac44829.js",
-      "path---blog-3e99867b48fbbac44829.js.map"
+      "path---blog-89166d59b20af38025c8.js",
+      "path---blog-89166d59b20af38025c8.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
@@ -60,6 +60,10 @@
       "path---footer-a0e39f21c11f6a62c5ab.js",
       "path---footer-a0e39f21c11f6a62c5ab.js.map"
     ],
+    "path---blog-2020-02-01-reflections-on-documenting-using-the-openapi-spec": [
+      "path---blog-2020-02-01-reflections-on-documenting-using-the-openapi-spec-29aba8dc9da8dc830075.js",
+      "path---blog-2020-02-01-reflections-on-documenting-using-the-openapi-spec-29aba8dc9da8dc830075.js.map"
+    ],
     "path---blog-2019-03-14-on-apis-swagger-or-stumble": [
       "path---blog-2019-03-14-on-apis-swagger-or-stumble-29daaeb7990dce53755e.js",
       "path---blog-2019-03-14-on-apis-swagger-or-stumble-29daaeb7990dce53755e.js.map"
@@ -73,8 +77,8 @@
       "path---blog-2019-02-08-on-software-engineering-a462e25d2d7e4f774e8b.js.map"
     ],
     "app": [
-      "app-10bf48a8f70591b7385a.js",
-      "app-10bf48a8f70591b7385a.js.map"
+      "app-f21a567a1aefea5b2f46.js",
+      "app-f21a567a1aefea5b2f46.js.map"
     ],
     "path---blog-2018-02-28-deploy-test": [
       "path---blog-2018-02-28-deploy-test-204aab35ec4c02cfbdb7.js",
@@ -87,10 +91,6 @@
     "component---src-pages-githubrepos-js": [
       "component---src-pages-githubrepos-js-355dba5012364227d188.js",
       "component---src-pages-githubrepos-js-355dba5012364227d188.js.map"
-    ],
-    "path---blog-2020-02-01-reflections-on-the-openapi-spec": [
-      "path---blog-2020-02-01-reflections-on-the-openapi-spec-8a1a2a0d44b492a26c6a.js",
-      "path---blog-2020-02-01-reflections-on-the-openapi-spec-8a1a2a0d44b492a26c6a.js.map"
     ],
     "component---src-pages-about-js": [
       "component---src-pages-about-js-594e202e927e4390e45e.js",

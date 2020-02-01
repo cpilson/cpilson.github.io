@@ -1,2 +1,0 @@
-webpackJsonp([0xed01fa875c1b],{925:function(e,t){e.exports={data:{markdownRemark:{html:"<p>Thing.</p>",frontmatter:{date:"2020-02-01T12:24:07-07:00",path:"/blog/2020-02-01_reflections-on-the-openapi-spec",title:"Reflections on the OpenAPI Spec"}}},pathContext:{}}}});
-//# sourceMappingURL=path---blog-2020-02-01-reflections-on-the-openapi-spec-8a1a2a0d44b492a26c6a.js.map
