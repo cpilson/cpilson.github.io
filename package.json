@@ -9,7 +9,7 @@
   "version": "0.0.1",
   "author": "Chris Pilson <Chris.Pilson@gmail.com>",
   "dependencies": {
-    "bootstrap": "3",
+    "bootstrap": "^3.4.1",
     "bootstrap-react": "^0.3.1",
     "bootstrap-sass": "^3.3.7",
     "dotenv": "^5.0.0",
