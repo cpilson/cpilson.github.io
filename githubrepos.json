@@ -92,7 +92,7 @@
           }
         ]
       },
-      "isHireable": true,
+      "isHireable": false,
       "location": null,
       "publicKeys": {
         "nodes": [
