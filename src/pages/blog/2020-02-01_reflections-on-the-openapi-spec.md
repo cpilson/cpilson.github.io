@@ -2,7 +2,7 @@
 path: /blog/2020-02-01_reflections-on-documenting-using-the-openapi-spec
 layout: blog
 title: Reflections on Documenting Using the OpenAPI Spec
-date: '2020-02-01T12:24:07-07:00'
+date: '2020-02-01T13:15:00-07:00'
 ---
 > Swagger started life as an offering from [SmartBear](https://swagger.io/solutions/getting-started-with-oas/). SmartBear then donated the API specification to the Open Source community, where it was re-branded `OpenAPI 2.0` ... There now exists the `OpenAPI 3.0` specification [and I go through a bit of pain to generate this automatically, as `Springfox` support for `OpenAPI 3.0` hasn't yet come out of experimental channels]. _[I]s it really worth doing all this for the sake of documentation?_ **[Y]es**, it is worth the effort.
 
