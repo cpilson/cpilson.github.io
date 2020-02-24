@@ -9,20 +9,16 @@
       "path---githubrepos-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---blog": [
-      "path---blog-89166d59b20af38025c8.js",
-      "path---blog-89166d59b20af38025c8.js.map"
+      "path---blog-a0e39f21c11f6a62c5ab.js",
+      "path---blog-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
-    "component---src-templates-blog-post-js": [
-      "component---src-templates-blog-post-js-1072052c6995365a2d24.js",
-      "component---src-templates-blog-post-js-1072052c6995365a2d24.js.map"
-    ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-a99f2e8ac2991ed604f3.js",
-      "component---src-layouts-index-js-a99f2e8ac2991ed604f3.js.map"
+      "component---src-layouts-index-js-6e204630ce29dabbf24e.js",
+      "component---src-layouts-index-js-6e204630ce29dabbf24e.js.map"
     ],
     "path---index": [
       "path---index-a0e39f21c11f6a62c5ab.js",
@@ -41,16 +37,8 @@
       "component---src-pages-header-index-js-d9d12926dd0839f81c1b.js.map"
     ],
     "commons": [
-      "commons-9bf1b51ec9cc747ae821.js",
-      "commons-9bf1b51ec9cc747ae821.js.map"
-    ],
-    "path---blog-2018-02-28-test-with-defined-path": [
-      "path---blog-2018-02-28-test-with-defined-path-f488464ab5f663718a00.js",
-      "path---blog-2018-02-28-test-with-defined-path-f488464ab5f663718a00.js.map"
-    ],
-    "path---blog-2018-03-12-javascript-and-decision-fatigue": [
-      "path---blog-2018-03-12-javascript-and-decision-fatigue-eb865697c8e7e6095ad6.js",
-      "path---blog-2018-03-12-javascript-and-decision-fatigue-eb865697c8e7e6095ad6.js.map"
+      "commons-9498a7341d7fe4ee0eb5.js",
+      "commons-9498a7341d7fe4ee0eb5.js.map"
     ],
     "path---404-html": [
       "path---404-html-a0e39f21c11f6a62c5ab.js",
@@ -60,29 +48,13 @@
       "path---footer-a0e39f21c11f6a62c5ab.js",
       "path---footer-a0e39f21c11f6a62c5ab.js.map"
     ],
-    "path---blog-2020-02-01-reflections-on-documenting-using-the-openapi-spec": [
-      "path---blog-2020-02-01-reflections-on-documenting-using-the-openapi-spec-20a321bf1c1c1d083e98.js",
-      "path---blog-2020-02-01-reflections-on-documenting-using-the-openapi-spec-20a321bf1c1c1d083e98.js.map"
-    ],
-    "path---blog-2019-03-14-on-apis-swagger-or-stumble": [
-      "path---blog-2019-03-14-on-apis-swagger-or-stumble-29daaeb7990dce53755e.js",
-      "path---blog-2019-03-14-on-apis-swagger-or-stumble-29daaeb7990dce53755e.js.map"
-    ],
     "component---src-pages-footer-index-js": [
       "component---src-pages-footer-index-js-643887a60c0f4134746c.js",
       "component---src-pages-footer-index-js-643887a60c0f4134746c.js.map"
     ],
-    "path---blog-2019-02-08-on-software-engineering": [
-      "path---blog-2019-02-08-on-software-engineering-a462e25d2d7e4f774e8b.js",
-      "path---blog-2019-02-08-on-software-engineering-a462e25d2d7e4f774e8b.js.map"
-    ],
     "app": [
-      "app-f21a567a1aefea5b2f46.js",
-      "app-f21a567a1aefea5b2f46.js.map"
-    ],
-    "path---blog-2018-02-28-deploy-test": [
-      "path---blog-2018-02-28-deploy-test-204aab35ec4c02cfbdb7.js",
-      "path---blog-2018-02-28-deploy-test-204aab35ec4c02cfbdb7.js.map"
+      "app-c9d4d072cf41afd143da.js",
+      "app-c9d4d072cf41afd143da.js.map"
     ],
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
@@ -96,17 +68,13 @@
       "component---src-pages-about-js-594e202e927e4390e45e.js",
       "component---src-pages-about-js-594e202e927e4390e45e.js.map"
     ],
-    "path---blog-2018-03-14-the-art-of-resume-tool-writing": [
-      "path---blog-2018-03-14-the-art-of-resume-tool-writing-3100ae38d689ce8290ab.js",
-      "path---blog-2018-03-14-the-art-of-resume-tool-writing-3100ae38d689ce8290ab.js.map"
-    ],
     "path---header": [
-      "path---header-84bd160ce8643572938a.js",
-      "path---header-84bd160ce8643572938a.js.map"
+      "path---header-a0e39f21c11f6a62c5ab.js",
+      "path---header-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---about": [
-      "path---about-da7a861fb2d95c22de95.js",
-      "path---about-da7a861fb2d95c22de95.js.map"
+      "path---about-a0e39f21c11f6a62c5ab.js",
+      "path---about-a0e39f21c11f6a62c5ab.js.map"
     ]
   }
 }
