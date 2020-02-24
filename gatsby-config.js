@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: `Chris Pilson - GitHub Dev Site`,
     keywords: 'Chris Pilson, Development, ReactJS, React, Gatsby, GatsbyJS, GitHub, JavaScript,' +
-      ' Redux, Inferno, React Native',
+      ' Redux, React Native',
     name: 'Chris Pilson'
   },
   plugins: [
@@ -34,6 +34,7 @@ module.exports = {
         name: 'blog-pages'
       }
     },
+    `gatsby-transformer-remark`,
     {
       resolve: 'gatsby-transformer-remark',
       options: {
