@@ -6,7 +6,7 @@ date: '2020-02-23T13:05:59-07:00'
 ---
 By this point, I have hopefully convinced the software engineers, developers, recruiters, and other interested technical people reading this blog that _documentation is important_ and that we _owe it to ourselves, our colleagues, and our users_ to provide high-quality documentation for our projects.
 
-We also owe it to our future-selves not to build out infrastructure that is unmaintainable.
+We also owe it to our future-selves not to build out infrastructure that is silly.
 
 To this end, let’s take a moment to talk through the _orchestration_ of documentation. Sure, we can build out documentation, but how might we automate this process?
 
